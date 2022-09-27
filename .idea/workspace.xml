@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="" />
+    <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/LAB/2. Largest Of Three Numbers v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/LAB/2. Largest Of Three Numbers v2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/LAB/1. Number Definer v1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\1. Basic Syntax, Conditional Statements and Loops\LAB\1. Number Definer v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +87,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.1. Number Definer v2" />
-        <item itemvalue="Python.1. Number Definer v1" />
+        <item itemvalue="Python.1.1. Number Definer v1" />
       </list>
     </recent_temporary>
   </component>
