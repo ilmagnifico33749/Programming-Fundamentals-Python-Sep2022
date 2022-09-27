@@ -1,3 +1,4 @@
+#Not a working solution, to check it additionally
 original_budget = int(input())
 current_budget = original_budget
 command = input()

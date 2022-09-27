@@ -94,7 +94,20 @@ End  You bought everything needed.
 10 You went in overdraft!
 ----------------------------------------------------------------
 
+7. Patterns
+Write a program that receives a number and creates the following pattern. The number represents the largest count of stars on one row.
 
-
+Example
+Input Output
+----------------------------------------------------------------
+3
+*
+**
+***
+**
+*
+----------------------------------------------------------------
+5 * ** *** **** ***** **** *** ** *
+----------------------------------------------------------------
 
 
