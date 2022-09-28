@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/0. Conditions - Problems.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/1. Jenny's Secret Message v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/1. Jenny's Secret Message v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/2. Drink Something v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/3. Chat Codes v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/4. Maximum Multiple v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/5. Orders v1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/LAB/Problems - Conditions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/LAB/Problems - Conditions.txt" afterDir="false" />
-    </list>
+    <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
