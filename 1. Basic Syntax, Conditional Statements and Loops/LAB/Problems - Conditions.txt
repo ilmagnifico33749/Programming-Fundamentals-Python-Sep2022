@@ -1,3 +1,7 @@
+Basic Syntax, Conditional Statements and Loops - Programming Fundamentals with Python - септември 2022
+Lab: Basic Syntax, Conditional Statements, and Loops
+
+
 1. Number Definer
 Write a program that reads a floating-point number and:
 - prints "zero" if the number is zero
