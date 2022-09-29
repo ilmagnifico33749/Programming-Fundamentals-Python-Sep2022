@@ -1,28 +1,17 @@
-command = ""
-coffees_needed = 0
-while command != "END":
-    command = input()
-    if command.lower() == "coding" or command.lower() == "dog" \
-        or command.lower() == "cat" or command.lower() == "movie":
-        event = str(command)
-        if event.isupper() is True:
-            coffees_needed += 2
-            print(coffees_needed)
-        elif event.islower() is True:
-            coffees_needed += 1
-            print(coffees_needed)
+name = str(input())
+while name != "Welcome":
+    if name != "Voldemort":
+        if len(name) < 5:
+            print(f"{name} goes to Gryffindor.")
+        elif len(name) == 5:
+            print(f"{name} goes to Slytherin.")
+        elif len(name) == 6:
+            print(f"{name} goes to Ravenclaw.")
+        elif len(name) > 6:
+            print(f"{name} goes to Hufflepuff.")
     else:
-        pass
-
-if coffees_needed <= 5:
-    print(f"{coffees_needed}")
+        print("You must not speak of that name!")
+        break
+    name = str(input())
 else:
-    print(f"You need extra sleep")
-
-
-
-
-
-
-
-
+    print("Welcome to Hogwarts.")
