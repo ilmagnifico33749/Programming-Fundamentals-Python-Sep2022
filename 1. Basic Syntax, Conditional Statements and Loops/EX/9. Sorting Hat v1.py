@@ -1,6 +1,5 @@
-name = ""
-while name != "Welcome":
-    name = input()
+name = str(input())
+while name != "Welcome!":
     if name != "Voldemort":
         if len(name) < 5:
             print(f"{name} goes to Gryffindor.")
@@ -10,6 +9,7 @@ while name != "Welcome":
             print(f"{name} goes to Ravenclaw.")
         elif len(name) > 6:
             print(f"{name} goes to Hufflepuff.")
+        name = str(input())
     else:
         print("You must not speak of that name!")
         break

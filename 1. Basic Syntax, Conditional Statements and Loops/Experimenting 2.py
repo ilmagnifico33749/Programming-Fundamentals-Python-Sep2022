@@ -1,17 +1,14 @@
-name = str(input())
-while name != "Welcome":
-    if name != "Voldemort":
-        if len(name) < 5:
-            print(f"{name} goes to Gryffindor.")
-        elif len(name) == 5:
-            print(f"{name} goes to Slytherin.")
-        elif len(name) == 6:
-            print(f"{name} goes to Ravenclaw.")
-        elif len(name) > 6:
-            print(f"{name} goes to Hufflepuff.")
-    else:
-        print("You must not speak of that name!")
-        break
-    name = str(input())
+word_one = str(input())
+word_two = str(input())
+new_word = ""
+
+if new_word != word_two:
+    for i in range(len(word_one)):
+        symbol_one = word_one[i]
+        for j in range(len(word_two)):
+            symbol_two = word_two[j]
+            if symbol_two != symbol_one:
+                new_word += str(symbol_two)
 else:
-    print("Welcome to Hogwarts.")
+    pass
+print(new_word)
