@@ -8,7 +8,7 @@ if word_one != word_two:
         symbol_two = word_two[i]
         if symbol_one != symbol_two:
             symbol_one = symbol_two
-
+            new_word += str(symbol_one)
         else:
             pass
-    print(word_one)
+    print(new_word)
