@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/12. Higher Diff Prob - Christmas Spirit v1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/11. Higher Diff Prob - Easter Bread.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/11. Higher Diff Prob - Easter Bread.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 2.py" afterDir="false" />
     </list>
@@ -22,6 +22,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -88,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9. Sorting Hat v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12. Higher Diff Prob - Christmas Spirit v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/9. Sorting Hat v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/12. Higher Diff Prob - Christmas Spirit v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,10 +162,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Experimenting 2 (1)" />
+        <item itemvalue="Python.12. Higher Diff Prob - Christmas Spirit v1" />
         <item itemvalue="Python.Experimenting 1" />
         <item itemvalue="Python.11. Higher Diff Prob - Easter Bread v1" />
         <item itemvalue="Python.10. Higher Diff Prob - Mutate Strings v1" />
-        <item itemvalue="Python.9. Sorting Hat v2" />
       </list>
     </recent_temporary>
   </component>

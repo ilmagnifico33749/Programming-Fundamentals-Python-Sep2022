@@ -3,6 +3,22 @@
 # print(chr(97))
 # new_command = ""
 
+initial_quantity_decorations = int(input())
+all_days = int(input())
+days_passed = 0
+total_cost = 0
+points_spirit = 0
+decoration_cost = 0
+points_spirit_gained_daily = 0
+daily_expenses = 0
+price_ornament_set = 2
+points_ornament_set = 5
+price_tree_skirt = 5
+points_tree_skirt = 3
+price_tree_garland = 3
+points_tree_garland = 10
+price_tree_lights = 15
+points_tree_lights = 17
 
 
 for days_left in range(1, all_days + 1):
