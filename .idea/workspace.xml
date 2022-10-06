@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/10. Higher Diff Prob - Mutate Strings v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/10. Higher Diff Prob - Mutate Strings v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/11. Higher Diff Prob - Easter Bread.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/11. Higher Diff Prob - Easter Bread.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 2.py" afterDir="false" />
     </list>
@@ -45,7 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.10. Higher Diff Prob - Mutate Strings v1">
+  <component name="RunManager" selected="Python.Experimenting 2 (1)">
     <configuration name="10. Higher Diff Prob - Mutate Strings v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9. Sorting Hat v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11. Higher Diff Prob - Easter Bread v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/9. Sorting Hat v1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\1. Basic Syntax, Conditional Statements and Loops\EX\11. Higher Diff Prob - Easter Bread v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10. Higher Diff Prob - Mutate Strings v1" />
         <item itemvalue="Python.Experimenting 2 (1)" />
         <item itemvalue="Python.Experimenting 1" />
+        <item itemvalue="Python.11. Higher Diff Prob - Easter Bread v1" />
+        <item itemvalue="Python.10. Higher Diff Prob - Mutate Strings v1" />
         <item itemvalue="Python.9. Sorting Hat v2" />
-        <item itemvalue="Python.9. Sorting Hat v1" />
       </list>
     </recent_temporary>
   </component>
