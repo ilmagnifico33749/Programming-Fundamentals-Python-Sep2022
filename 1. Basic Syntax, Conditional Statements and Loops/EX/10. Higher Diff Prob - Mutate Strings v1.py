@@ -1,14 +1,13 @@
 word_one = str(input())
 word_two = str(input())
-new_word = ""
+last_word = word_one
 
-if word_one != word_two:
-    for i in range(len(word_one)):
-        symbol_one = word_one[i]
-        symbol_two = word_two[i]
-        if symbol_one != symbol_two:
-            symbol_one = symbol_two
-            new_word += str(symbol_one)
-        else:
-            pass
-    print(new_word)
+
+for i in range(len(word_one)):
+    left_part = word_two[:i +1]
+    right_part = word_one[i + 1:]
+    current_word = left_part + right_part
+    if current_word == last_word:
+        continue
+    print(current_word)
+    last_word = current_word

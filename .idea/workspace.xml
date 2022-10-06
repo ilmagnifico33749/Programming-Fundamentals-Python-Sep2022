@@ -4,6 +4,8 @@
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/10. Higher Diff Prob - Mutate Strings v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/10. Higher Diff Prob - Mutate Strings v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,8 +154,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.10. Higher Diff Prob - Mutate Strings v1" />
-        <item itemvalue="Python.Experimenting 1" />
         <item itemvalue="Python.Experimenting 2 (1)" />
+        <item itemvalue="Python.Experimenting 1" />
         <item itemvalue="Python.9. Sorting Hat v2" />
         <item itemvalue="Python.9. Sorting Hat v1" />
       </list>
