@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/12. Higher Diff Prob - Christmas Spirit v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Data Types and Variables/LAB/1. Concat Names v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Data Types and Variables/LAB/2. Convert Meters to Kilometers v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Data Types and Variables/LAB/3. Pounds to Dollars v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Data Types and Variables/LAB/4. Centuries to Minutes v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Data Types and Variables/LAB/4. Centuries to Minutes v2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/LAB/4. Centuries to Minutes v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. Data Types and Variables/LAB/4. Centuries to Minutes v2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
