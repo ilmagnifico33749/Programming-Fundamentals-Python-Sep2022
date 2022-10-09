@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/12. Higher Diff Prob - Christmas Spirit v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/12. Higher Diff Prob - Christmas Spirit v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Data Types and Variables/LAB/1. Concat Names v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Data Types and Variables/LAB/2. Convert Meters to Kilometers v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Data Types and Variables/LAB/3. Pounds to Dollars v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Data Types and Variables/LAB/4. Centuries to Minutes v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Data Types and Variables/LAB/4. Centuries to Minutes v2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +58,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.Experimenting 2 (1)">
-    <configuration name="10. Higher Diff Prob - Mutate Strings v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.4. Centuries to Minutes v2">
+    <configuration name="1. Concat Names v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Data Types and Variables/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/10. Higher Diff Prob - Mutate Strings v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Data Types and Variables/LAB/1. Concat Names v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11. Higher Diff Prob - Easter Bread v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2. Convert Meters to Kilometers v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Data Types and Variables/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\1. Basic Syntax, Conditional Statements and Loops\EX\11. Higher Diff Prob - Easter Bread v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Data Types and Variables/LAB/2. Convert Meters to Kilometers v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12. Higher Diff Prob - Christmas Spirit v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4. Centuries to Minutes v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Data Types and Variables/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/EX/12. Higher Diff Prob - Christmas Spirit v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Data Types and Variables/LAB/4. Centuries to Minutes v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Experimenting 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4. Centuries to Minutes v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Data Types and Variables/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Data Types and Variables/LAB/4. Centuries to Minutes v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Experimenting 2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Experimenting 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Experimenting 2 (1)" />
-        <item itemvalue="Python.12. Higher Diff Prob - Christmas Spirit v1" />
-        <item itemvalue="Python.Experimenting 1" />
-        <item itemvalue="Python.11. Higher Diff Prob - Easter Bread v1" />
-        <item itemvalue="Python.10. Higher Diff Prob - Mutate Strings v1" />
+        <item itemvalue="Python.4. Centuries to Minutes v2" />
+        <item itemvalue="Python.4. Centuries to Minutes v1" />
+        <item itemvalue="Python.2. Convert Meters to Kilometers v1" />
+        <item itemvalue="Python.1. Concat Names v1" />
+        <item itemvalue="Python.Experimenting 2" />
       </list>
     </recent_temporary>
   </component>
@@ -218,6 +223,11 @@
           <url>file://$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/LAB/Experimenting 1.py</url>
           <line>8</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 2.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
