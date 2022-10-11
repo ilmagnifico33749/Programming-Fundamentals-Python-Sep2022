@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2. Data Types and Variables/Experimenting 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Data Types and Variables/LAB/6. Next Happy Year v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Data Types and Variables/LAB/6. Next Happy Year v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CSS Basics/1. Welcome to HTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CSS Basics/Experimenting 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML &amp; CSS Basics/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/LAB/5. Special Numbers v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. Data Types and Variables/LAB/5. Special Numbers v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Data Types and Variables/LAB/6. Next Happy Year v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. Data Types and Variables/LAB/6. Next Happy Year v2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -53,6 +53,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.6. Next Happy Year v2">
     <configuration name="5. Special Numbers v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
