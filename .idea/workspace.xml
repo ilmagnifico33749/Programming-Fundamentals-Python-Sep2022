@@ -2,11 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML &amp; CSS Basics/2. Fruits.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML &amp; CSS Basics/3. HTML Lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. HTML &amp; CSS Basics/3. HTML Lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. HTML &amp; CSS Basics/4. Wiki Page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. HTML &amp; CSS Basics/5. Color Blocks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. HTML &amp; CSS Basics/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Lists/Experimenting 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Lists/LAB/1. Strange Zoo v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Lists/LAB/2. Courses v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Lists/LAB/3. List Statistics v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Lists/LAB/3. List Statistics v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Lists/LAB/4. Search v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Lists/LAB/5. Numbers Filter v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Lists/LAB/5. Numbers Filter v2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML &amp; CSS Basics/bear_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML &amp; CSS Basics/screenshot 1 - 12.10.2021.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML &amp; CSS Basics/1. Welcome to HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/3. HTML &amp; CSS Basics/1. Welcome to HTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML &amp; CSS Basics/2. Fruits.html" beforeDir="false" afterPath="$PROJECT_DIR$/3. HTML &amp; CSS Basics/2. Fruits.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML &amp; CSS Basics/3. HTML Lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML &amp; CSS Basics/Experimenting 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/3. HTML &amp; CSS Basics/Experimenting 1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML &amp; CSS Basics/HTML.png" beforeDir="false" afterPath="$PROJECT_DIR$/3. HTML &amp; CSS Basics/HTML.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML &amp; CSS Basics/apple.png" beforeDir="false" afterPath="$PROJECT_DIR$/3. HTML &amp; CSS Basics/apple.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML &amp; CSS Basics/banana.png" beforeDir="false" afterPath="$PROJECT_DIR$/3. HTML &amp; CSS Basics/banana.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML &amp; CSS Basics/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/3. HTML &amp; CSS Basics/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML &amp; CSS Basics/kiwi.png" beforeDir="false" afterPath="$PROJECT_DIR$/3. HTML &amp; CSS Basics/kiwi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML &amp; CSS Basics/orange.png" beforeDir="false" afterPath="$PROJECT_DIR$/3. HTML &amp; CSS Basics/orange.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -59,8 +77,8 @@
       <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6. Next Happy Year v2">
-    <configuration name="5. Special Numbers v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.5. Numbers Filter v2">
+    <configuration name="3. List Statistics v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Data Types and Variables/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Lists/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Data Types and Variables/LAB/5. Special Numbers v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Lists/LAB/3. List Statistics v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6. Next Happy Year v1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4. Search v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Data Types and Variables/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Lists/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Data Types and Variables/LAB/6. Next Happy Year v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Lists/LAB/4. Search v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6. Next Happy Year v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5. Numbers Filter v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Data Types and Variables/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Lists/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\2. Data Types and Variables\LAB\6. Next Happy Year v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Lists/LAB/5. Numbers Filter v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6. Next Happy Year v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5. Numbers Filter v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Data Types and Variables/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Lists/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Data Types and Variables/LAB/6. Next Happy Year v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Lists/LAB/5. Numbers Filter v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. Data Types and Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Data Types and Variables/Experimenting 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Lists/Experimenting 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6. Next Happy Year v2" />
+        <item itemvalue="Python.5. Numbers Filter v2" />
         <item itemvalue="Python.Experimenting 1" />
-        <item itemvalue="Python.6. Next Happy Year v1 (1)" />
-        <item itemvalue="Python.6. Next Happy Year v1" />
-        <item itemvalue="Python.5. Special Numbers v1" />
+        <item itemvalue="Python.5. Numbers Filter v1" />
+        <item itemvalue="Python.3. List Statistics v1" />
+        <item itemvalue="Python.4. Search v1" />
       </list>
     </recent_temporary>
   </component>
@@ -229,6 +247,31 @@
           <url>file://$PROJECT_DIR$/1. Basic Syntax, Conditional Statements and Loops/Experimenting 2.py</url>
           <line>66</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4. Lists/LAB/5. Numbers Filter v1.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4. Lists/LAB/5. Numbers Filter v1.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4. Lists/LAB/5. Numbers Filter v1.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4. Lists/LAB/5. Numbers Filter v1.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4. Lists/LAB/5. Numbers Filter v1.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
