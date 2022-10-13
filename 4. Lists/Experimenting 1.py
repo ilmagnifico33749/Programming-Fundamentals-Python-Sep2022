@@ -1,1 +1,5 @@
-print(17%3)
+a = "a"
+b = "b"
+c = int(input())
+command = a + b
+print(command)
