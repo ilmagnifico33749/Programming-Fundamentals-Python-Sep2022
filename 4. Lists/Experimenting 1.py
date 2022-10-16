@@ -1,11 +1,24 @@
-team_A = []
-team_B = []
-for index in range(1, 12):
-    symbol_A = "A-" + str(index)
-    team_A.append(symbol_A)
-    symbol_B = "B-" + str(index)
-    team_B.append(symbol_B)
-sequence_of_cards = input().split()
-for card in sequence_of_cards:
-    card_for_player = card.split("-")
-    print(card_for_player)
+list_all_gains = ["1", "2", "3", "4", "5"]
+copy_list_all_gains = list_all_gains
+list_all_traders = ["Trader 1 gain", "Trader 2 gain", "Trader 3 gain"]
+list_individual_gains_trader = []
+
+while len(list_all_gains) > 0:
+    for trader in list_all_traders:
+        gain = int(list_all_gains[0])
+        print(f"Gain: {gain}")
+        list_individual_gains_trader.append(list_all_gains[0])
+        list_all_gains.remove(list_all_gains[0])
+
+
+
+
+
+
+
+
+
+
+
+
+
