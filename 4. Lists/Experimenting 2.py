@@ -1,21 +1,17 @@
-list_all_gains = ["1", "2", "3", "4", "5"]
-reserve_list_all_gains = ["1", "2", "3", "4", "5"]
-number_of_traders = int(input())
-
-list_all_traders = ["Trader 1 gain", "Trader 2 gain", "Trader 3 gain"]
-
-list_final_gains = []
-starting_index = 0
-while starting_index < number_of_traders:
-    gain_current_trader = 0
-    for current_index in range(starting_index, len(list_all_gains), number_of_traders):
-        gain_current_trader += list_all_gains[current_index]
-    list_final_gains.append(gain_current_trader)
-    starting_index += 1
-print(list_final_gains)
+import sys
+list_integers = ['1', '10', '2', '9', '3', '8']
+num_counts = 2
 
 
-
-
+for number in range(num_counts):
+    smallest_num = sys.maxsize
+    for integer in list_integers:
+        print(f"Integer: {integer}")
+        if int(integer) < int(smallest_num):
+            smallest_num = int(integer)
+            print(f"Smallest Number: {smallest_num}")
+        list_integers.remove(smallest_num)
+    print(f"Removing: {integer}")
+print(", ".join(list_integers))
 
 
