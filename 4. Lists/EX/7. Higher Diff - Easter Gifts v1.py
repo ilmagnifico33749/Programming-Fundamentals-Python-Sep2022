@@ -16,8 +16,10 @@ while command != "No Money":
                 if list_gifts[gift_list_position] == list_command_details[1]:
                     list_gifts[gift_list_position] = "None"
         elif list_command_details[0] == "Required":
-            list_gifts[int(list_command_details[2])] = list_command_details[1]
-
+            if int(list_command_details[2]) <= len(list_gifts) - 1:
+                list_gifts[int(list_command_details[2])] = list_command_details[1]
+            else:
+                continue
         elif list_command_details[0] == "JustInCase":
             list_gifts[-1] = list_command_details[1]
     command = str(input())
@@ -25,8 +27,4 @@ else:
     for gift in list_gifts:
         if gift == "None":
             list_gifts.remove(gift)
-    print(list_gifts)
-
-
-
-
+    print(" ".join(list_gifts))
