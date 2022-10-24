@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/4. Lists/EX/8. Higher Diff - Seize the Fire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Lists/EX/10. Higher Diff - Bread Factory v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Lists/EX/8. Higher Diff - Seize the Fire v1 - 70-100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Lists/EX/8. Higher Diff - Seize the Fire v2 - To Finish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Lists/EX/9. Higher Diff - Hello France v1 - 0-100.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4. Lists/EX/8. Higher Diff - Seize the Fire.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4. Lists/Experimenting 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/4. Lists/Experimenting 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +61,8 @@
       <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.8. Higher Diff - Seize the Fire">
-    <configuration name="6. Survival of the Biggest v5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10. Higher Diff - Bread Factory v1">
+    <configuration name="10. Higher Diff - Bread Factory v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Lists/EX/6. Survival of the Biggest v5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Lists/EX/10. Higher Diff - Bread Factory v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8. Higher Diff - Seize the Fire" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="8. Higher Diff - Seize the Fire v1 - 70-100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +116,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Lists/EX/8. Higher Diff - Seize the Fire.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\4. Lists\EX\8. Higher Diff - Seize the Fire v1 - 70-100.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9. Higher Diff - Hello France v1 - 0-100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming-Fundamentals-Python-Sep2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Lists/EX" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\4. Lists\EX\9. Higher Diff - Hello France v1 - 0-100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,34 +167,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Experimenting 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming-Fundamentals-Python-Sep2022" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Lists" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Lists/Experimenting 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.8. Higher Diff - Seize the Fire" />
-        <item itemvalue="Python.7. Higher Diff - Easter Gifts v1" />
+        <item itemvalue="Python.10. Higher Diff - Bread Factory v1" />
+        <item itemvalue="Python.9. Higher Diff - Hello France v1 - 0-100" />
         <item itemvalue="Python.Experimenting 1" />
-        <item itemvalue="Python.Experimenting 2" />
-        <item itemvalue="Python.6. Survival of the Biggest v5" />
+        <item itemvalue="Python.8. Higher Diff - Seize the Fire v1 - 70-100" />
+        <item itemvalue="Python.7. Higher Diff - Easter Gifts v1" />
       </list>
     </recent_temporary>
   </component>
