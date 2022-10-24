@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/2. Grades v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/2. Grades v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/3. Calculations v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/3. Calculations v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/4. Repeat String v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/4. Repeat String v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/5. Orders v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/5. Orders v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/6. Calculate Rectangle Area v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/6. Calculate Rectangle Area v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/7. Rounding v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/7. Rounding v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/EX/1. Smallest of Three Numbers v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/EX/1. Smallest of Three Numbers v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/EX/1. Smallest of Three Numbers v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/EX/2. Add and Subtract v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/EX/2. Add and Subtract v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/EX/3. Characters in Range v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/EX/3. Characters in Range v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/EX/Functions EXC - Experimenting v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/EX/Functions EXC - Experimenting v2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +65,8 @@
       <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7. Rounding v1">
-    <configuration name="5. Orders v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Functions EXC - Experimenting v2">
+    <configuration name="1. Smallest of Three Numbers v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. Functions/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. Functions/EX" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/LAB/5. Orders v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/EX/1. Smallest of Three Numbers v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5. Orders v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1. Smallest of Three Numbers v3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. Functions/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. Functions/EX" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/LAB/5. Orders v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/EX/1. Smallest of Three Numbers v3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6. Calculate Rectangle Area v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2. Add and Subtract v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. Functions/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. Functions/EX" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/LAB/6. Calculate Rectangle Area v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/EX/2. Add and Subtract v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6. Calculate Rectangle Area v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Functions EXC - Experimenting v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. Functions/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. Functions/EX" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/LAB/6. Calculate Rectangle Area v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/EX/Functions EXC - Experimenting v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7. Rounding v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Functions EXC - Experimenting v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. Functions/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. Functions/EX" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/LAB/7. Rounding v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/EX/Functions EXC - Experimenting v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.7. Rounding v1" />
-        <item itemvalue="Python.6. Calculate Rectangle Area v2" />
-        <item itemvalue="Python.6. Calculate Rectangle Area v1" />
-        <item itemvalue="Python.5. Orders v2" />
-        <item itemvalue="Python.5. Orders v1" />
+        <item itemvalue="Python.Functions EXC - Experimenting v2" />
+        <item itemvalue="Python.Functions EXC - Experimenting v1" />
+        <item itemvalue="Python.2. Add and Subtract v1" />
+        <item itemvalue="Python.1. Smallest of Three Numbers v3" />
+        <item itemvalue="Python.1. Smallest of Three Numbers v1" />
       </list>
     </recent_temporary>
   </component>
