@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/1. Absolute Values v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/1. Absolute Values v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/1. Absolute Values v3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/1. Absolute Values v4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/Functions LAB - Experimenting 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/Functions LAB - Experimenting 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/2. Grades v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/2. Grades v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/3. Calculations v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/3. Calculations v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/4. Repeat String v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/4. Repeat String v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/5. Orders v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/5. Orders v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/6. Calculate Rectangle Area v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/6. Calculate Rectangle Area v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/7. Rounding v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/LAB/7. Rounding v2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4. Lists/Experimenting 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/4. Lists/Experimenting 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +68,8 @@
       <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1. Absolute Values v3">
-    <configuration name="1. Absolute Values v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.7. Rounding v1">
+    <configuration name="5. Orders v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/LAB/1. Absolute Values v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/LAB/5. Orders v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +90,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1. Absolute Values v3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5. Orders v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/LAB/1. Absolute Values v3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/LAB/5. Orders v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1. Absolute Values v4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6. Calculate Rectangle Area v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/LAB/1. Absolute Values v4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/LAB/6. Calculate Rectangle Area v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Functions LAB - Experimenting 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6. Calculate Rectangle Area v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/LAB/Functions LAB - Experimenting 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/LAB/6. Calculate Rectangle Area v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Functions LAB - Experimenting 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="7. Rounding v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/LAB/Functions LAB - Experimenting 2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/LAB/7. Rounding v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1. Absolute Values v3" />
-        <item itemvalue="Python.1. Absolute Values v4" />
-        <item itemvalue="Python.1. Absolute Values v2" />
-        <item itemvalue="Python.Functions LAB - Experimenting 2" />
-        <item itemvalue="Python.Functions LAB - Experimenting 1" />
+        <item itemvalue="Python.7. Rounding v1" />
+        <item itemvalue="Python.6. Calculate Rectangle Area v2" />
+        <item itemvalue="Python.6. Calculate Rectangle Area v1" />
+        <item itemvalue="Python.5. Orders v2" />
+        <item itemvalue="Python.5. Orders v1" />
       </list>
     </recent_temporary>
   </component>
