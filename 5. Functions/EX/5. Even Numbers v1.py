@@ -1,17 +1,16 @@
-
 # 1 2 3 4
 
-initial_sequence_nums = input()
+initial_sequence_nums = input().split(" ")
+list_sequence_integers = []
+for symbol in initial_sequence_nums:
+    number_var = int(symbol)
+    list_sequence_integers.append(number_var)
 
-def list_from_sequence_symbols(integer):
-    list_symbols = integer.split(" ")
-    return list_symbols
+def even_nums(number):
+    if number % 2 == 0:
+        return True
+    return False
 
-def filtering_even_nums(list_number):
-    list_even_nums = []
-    for number in list_number:
-        if int(number) % 2 == 0:
-            list_even_nums.append(number)
-    return list_even_nums
-
-print(filtering_even_nums(list_from_sequence_symbols(initial_sequence_nums)))
+even_nums_iterator = filter(even_nums, list_sequence_integers)
+list_even_nums = list(even_nums_iterator)
+print(list_even_nums)
