@@ -1,14 +1,11 @@
-symbol_1 = ord(input())
-symbol_2 = ord(input())
-print(symbol_1)
-print(symbol_2)
-list_filtered_symbols= []
-
-def filtering_function(symbol):
-    list_filtered_symbols.append(chr(symbol))
-
-
-for sym in range(int(symbol_1) + 1, int(symbol_2)):
-    filtering_function(sym)
-
-print(" ".join(list_filtered_symbols))
+integer = 1000435
+list_from_integer = []
+print(f"Len Integer: {len(str(integer))}")
+a = str(integer)
+for symbol in range(len(a)):
+    print(f"Symbol: {symbol}")
+    print(str(a[symbol]))
+    b = int(a[symbol])
+    list_from_integer.append(b)
+print(list_from_integer)
+print(sum(list_from_integer))
