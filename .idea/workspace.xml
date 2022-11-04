@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/5. Functions/EX/9. Password Validator v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Functions/EX/10. Perfect Number v1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5. Functions/EX/Functions EXC - Experimenting v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Functions/EX/Functions EXC - Experimenting v1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/5. Functions/EX/Functions EXC - Experimenting v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Functions/EX/Functions EXC - Experimenting v2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +58,8 @@
       <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Functions EXC - Experimenting v1">
-    <configuration name="6. Sort v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10. Perfect Number v1">
+    <configuration name="10. Perfect Number v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/EX/6. Sort v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Functions/EX/10. Perfect Number v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Functions EXC - Experimenting v1" />
+        <item itemvalue="Python.10. Perfect Number v1" />
         <item itemvalue="Python.Functions EXC - Experimenting v2" />
+        <item itemvalue="Python.Functions EXC - Experimenting v1" />
         <item itemvalue="Python.6. Sort v3" />
         <item itemvalue="Python.6. Sort v2" />
-        <item itemvalue="Python.6. Sort v1" />
       </list>
     </recent_temporary>
   </component>
