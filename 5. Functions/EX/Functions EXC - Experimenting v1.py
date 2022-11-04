@@ -1,11 +1,11 @@
 # 123, 323, 421, 121
 
-initial_list = input().split(", ")
+def comparison(norm_num, rev_num):
+    nums_identicality = False
+    if norm_num == rev_num:
+        nums_identicality = True
+        return "True"
+    else:
+        return "False"
 
-def num_reversal(number):
-    for symbol in number
-
-
-
-
-
+print(comparison(123, 123))
