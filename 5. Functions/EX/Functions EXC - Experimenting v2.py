@@ -1,5 +1,17 @@
-# 4 6 2 8
+# 123, 323, 421, 121
 
-list_A = [2, 4, 6, 8]
-list_A.append(3)
-print(list_A)
+initial_list = input().split(", ")
+
+for num in initial_list:
+    for symbol in (len(num), -1):
+        print(num[symbol])
+    print("END")
+
+def string_reversal(string):
+    for symbol in range(len(string), -1):
+        pass
+
+
+
+
+
