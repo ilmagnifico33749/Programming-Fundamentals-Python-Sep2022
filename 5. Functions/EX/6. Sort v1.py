@@ -1,3 +1,7 @@
+# 4 6 2 8
+# to develop
+#to write a code so there is a fuction that switches the places of the symbols in a least
+
 initial_list = input().split()
 
 
