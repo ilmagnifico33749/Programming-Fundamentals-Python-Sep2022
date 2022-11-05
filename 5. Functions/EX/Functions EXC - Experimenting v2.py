@@ -2,12 +2,9 @@
 
 user_input = int(input())
 
-def list_divisors_num(number):
-    list_divisors = []
-    for numbers in range(1, number):
-        print(numbers)
-        if number % numbers == 0:
-            list_divisors.append(numbers)
-    return list_divisors
+def progress_visualisation(progress):
+    if progress == 100:
 
-print(list_divisors_num(user_input))
+        return f"[{(int(progress*0.1)) * '%'}]"
+
+print(progress_visualisation(user_input))
