@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/0.1. Experiment_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/0.2. Experiment_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/1. No Vowels v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/1. No Vowels v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/2. Trains v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/2. Trains v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/2. Trains v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/3. To-do List v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/3. To-do List v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/3. To-do List v3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/0.1. Experiment_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/0.1. Experiment_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/0.2. Experiment_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/0.2. Experiment_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.0.1. Experiment_1">
+  <component name="RunManager" selected="Python.3. To-do List v2">
     <configuration name="0.1. Experiment_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,48 +104,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1. No Vowels v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming-Fundamentals-Python-Sep2022" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/1. No Vowels v2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2. Trains v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming-Fundamentals-Python-Sep2022" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/2. Trains v1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="2. Trains v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,13 +125,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="3. To-do List v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming-Fundamentals-Python-Sep2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/3. To-do List v1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3. To-do List v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming-Fundamentals-Python-Sep2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/3. To-do List v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3. To-do List v2" />
+        <item itemvalue="Python.0.2. Experiment_2" />
+        <item itemvalue="Python.3. To-do List v1" />
         <item itemvalue="Python.0.1. Experiment_1" />
         <item itemvalue="Python.2. Trains v2" />
-        <item itemvalue="Python.0.2. Experiment_2" />
-        <item itemvalue="Python.2. Trains v1" />
-        <item itemvalue="Python.1. No Vowels v2" />
       </list>
     </recent_temporary>
   </component>
