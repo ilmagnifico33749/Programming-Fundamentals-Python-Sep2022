@@ -1,10 +1,7 @@
-# MyPass123
+def user_input(input):
+    for i in range(2):
+        print(i)
+        number = int(input)
+        print(number)
 
-user_input = int(input())
-
-def progress_visualisation(progress):
-    if progress == 100:
-
-        return f"[{(int(progress*0.1)) * '%'}]"
-
-print(progress_visualisation(user_input))
+print(user_input(input()))
