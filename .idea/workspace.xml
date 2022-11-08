@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/5. Sorting Names v2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/0.1. Experiment_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/0.1. Experiment_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/0.2. Experiment_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/0.2. Experiment_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/3. Trains v3.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/2. Trains v3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/6. Even Numbers v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/6. Even Numbers v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/5. Sorting Names v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. Lists Adanced/6.1. LAB/5. Sorting Names v1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
