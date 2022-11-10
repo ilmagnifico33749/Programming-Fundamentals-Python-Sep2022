@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/2. Next Version v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/3. Word Filter v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/3. Word Filter v2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/2. Next Version v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/2. Next Version v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/0.2. Experiment_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/0.2. Experiment_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
       <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2. Next Version v2">
+  <component name="RunManager" selected="Python.0.2. Experiment_2">
     <configuration name="0.1. Experiment_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,9 +167,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0.2. Experiment_2" />
         <item itemvalue="Python.2. Next Version v2" />
         <item itemvalue="Python.2. Next Version v3" />
-        <item itemvalue="Python.0.2. Experiment_2" />
         <item itemvalue="Python.2. Next Version v1" />
         <item itemvalue="Python.0.1. Experiment_1 (1)" />
       </list>
