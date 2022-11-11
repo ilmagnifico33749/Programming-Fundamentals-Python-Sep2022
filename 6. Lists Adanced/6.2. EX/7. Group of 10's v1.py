@@ -16,6 +16,3 @@ while True:
                 new_number = user_input[number]
                 new_list.append(new_number)
         print(f"Group of {higher_range}': {new_list}")
-
-
-
