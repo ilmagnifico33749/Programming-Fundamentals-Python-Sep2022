@@ -27,3 +27,6 @@ def message_decryption(encrypted_message):
     return " ".join(decrypted_message)
 
 print(message_decryption(input().split(" ")))
+
+
+
