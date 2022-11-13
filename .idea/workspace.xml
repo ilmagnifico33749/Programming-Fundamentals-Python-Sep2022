@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/0. Private Projects for Fun/1. Password Identifier/1. Password Identifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0. Private Projects for Fun/1. Password Identifier/Experiment 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0. Private Projects for Fun/1. Password Identifier/Experiment 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/9. HD - Anonymous Threat v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9. Objects and Classes/9.1. LAB/0.1. Experiment 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9. Objects and Classes/9.1. LAB/0.2. Experiment 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9. Objects and Classes/9.1. LAB/1. Comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9. Objects and Classes/9.1. LAB/2. Party.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/0.5. Experiment_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/0.5. Experiment_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/0.6. Experiment_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/0.6. Experiment_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/9. HD - Anonymous Threat v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/9. HD - Anonymous Threat v1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,12 +63,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022" />
+      <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\0. Private Projects for Fun\1. Password Identifier" />
       <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\5. Functions" />
       <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9. HD - Anonymous Threat v1">
-    <configuration name="0.2. Experiment_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0.1. Experiment 1">
+    <configuration name="0.1. Experiment 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Lists Adanced/6.2. EX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Objects and Classes/9.1. LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/0.2. Experiment_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Objects and Classes/9.1. LAB/0.1. Experiment 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0.3. Experiment_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1. Comment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Lists Adanced/6.2. EX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Objects and Classes/9.1. LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/0.3. Experiment_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Objects and Classes/9.1. LAB/1. Comment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0.4. Experiment_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1. Password Identifier" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Lists Adanced/6.2. EX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0. Private Projects for Fun/1. Password Identifier" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/0.4. Experiment_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0. Private Projects for Fun/1. Password Identifier/1. Password Identifier.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="0.6. Experiment_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Experiment 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Lists Adanced/6.2. EX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0. Private Projects for Fun/1. Password Identifier" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/0.6. Experiment_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0. Private Projects for Fun/1. Password Identifier/Experiment 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9. HD - Anonymous Threat v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Experiment 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. Lists Adanced/6.2. EX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0. Private Projects for Fun/1. Password Identifier" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. Lists Adanced/6.2. EX/9. HD - Anonymous Threat v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0. Private Projects for Fun/1. Password Identifier/Experiment 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.9. HD - Anonymous Threat v1" />
-        <item itemvalue="Python.0.2. Experiment_2" />
-        <item itemvalue="Python.0.4. Experiment_4" />
-        <item itemvalue="Python.0.3. Experiment_3" />
-        <item itemvalue="Python.0.6. Experiment_6" />
+        <item itemvalue="Python.0.1. Experiment 1" />
+        <item itemvalue="Python.1. Comment" />
+        <item itemvalue="Python.1. Password Identifier" />
+        <item itemvalue="Python.Experiment 2" />
+        <item itemvalue="Python.Experiment 1" />
       </list>
     </recent_temporary>
   </component>
@@ -300,6 +313,31 @@
           <url>file://$PROJECT_DIR$/5. Functions/EX/3. Characters in Range v1.py</url>
           <line>1</line>
           <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6. Lists Adanced/6.2. EX/0.6. Experiment_6.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6. Lists Adanced/6.2. EX/0.6. Experiment_6.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6. Lists Adanced/6.2. EX/0.6. Experiment_6.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6. Lists Adanced/6.2. EX/0.6. Experiment_6.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6. Lists Adanced/6.2. EX/0.6. Experiment_6.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="51" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

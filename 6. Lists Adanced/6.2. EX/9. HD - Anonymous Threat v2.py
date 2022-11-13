@@ -24,22 +24,8 @@ while command != "3:1":
     command_details = command.split()
 
     if command_details[0] == "merge":
-        current_word = ""
-        actual_number_words_to_be_merged = 0
-        requested_number_words_to_merge = int(command_details[2]) - int(command_details[1]) + 1
-        possible_number_words_to_merge = len(encrypted_message) - (int(command_details[1]))
-        if requested_number_words_to_merge <= possible_number_words_to_merge:
-            actual_number_words_to_be_merged = requested_number_words_to_merge
-        else:
-            actual_number_words_to_be_merged = possible_number_words_to_merge
-        current_word = str()
-        list_words_to_merge = []
-        for words in range(len(encrypted_message)):
-            for times in range(actual_number_words_to_be_merged):
-                if words == int(command_details[1]):
-                    current_word = encrypted_message.pop(int(command_details[1]))
-                    list_words_to_merge.append(current_word)
-        encrypted_message.insert(int(command_details[1]), ''.join(list_words_to_merge))
+        word_to_merge = [encrypted_message[word] for word in range(len(encrypted_message)) if word
+                         in range(int(command_details[1]), int(command_details[2]))]
 
     elif command_details[0] == "divide":
         index = command_details[1]
