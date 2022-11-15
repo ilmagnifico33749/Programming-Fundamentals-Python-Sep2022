@@ -1,11 +1,9 @@
 class Circle:
-
     __pi = 3.14
 
     def __init__(self, diameter):
         self.diameter = diameter
         self.radius = diameter / 2
-        self.angle = int()
 
 
     def calculate_circumference(self):
@@ -17,11 +15,8 @@ class Circle:
     def calculate_are_of_sector(self, angle):
         return (angle/360) * Circle.__pi * self.radius * self.radius
 
-
-circle_diameter = int(input())
-circle = Circle(circle_diameter)
+circle = Circle(int(input()))
 angle = int(input())
 print(f"{circle.calculate_circumference():.2f}")
 print(f"{circle.calculate_area():.2f}")
 print(f"{circle.calculate_are_of_sector(angle):.2f}")
-
