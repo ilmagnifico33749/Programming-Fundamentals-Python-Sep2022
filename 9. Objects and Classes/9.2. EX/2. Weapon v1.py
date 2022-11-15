@@ -6,7 +6,7 @@ class Weapon:
     def shoot(self):
         if self.bullets > 0:
             self.bullets -= 1
-            return "shooting"
+            return "shooting..."
         else:
             return "no bullets left"
 
