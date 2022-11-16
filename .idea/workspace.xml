@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/9. Objects and Classes/9.2. EX/9. HD - Movie v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/1. Bakery v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/1. Bakery v2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/0.1. Experiment v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/0.1. Experiment v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/0.2. Experiment v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/0.2. Experiment v2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +56,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\10. Dictionaries" />
       <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022" />
       <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\0. Private Projects for Fun\1. Password Identifier" />
       <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\5. Functions" />
       <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9. HD - Movie v1">
-    <configuration name="0.1. Experiment 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0.1. Experiment v1">
+    <configuration name="0.1. Experiment v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Objects and Classes/9.2. EX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10. Dictionaries/10.1. LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Objects and Classes/9.2. EX/0.1. Experiment 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/0.1. Experiment v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6. Inventory v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="0.2. Experiment v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Objects and Classes/9.2. EX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10. Dictionaries/10.1. LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Objects and Classes/9.2. EX/6. Inventory v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/0.2. Experiment v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7. Articles v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1. Bakery v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Objects and Classes/9.2. EX" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10. Dictionaries/10.1. LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Objects and Classes/9.2. EX/7. Articles v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/1. Bakery v1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0.1. Experiment v1" />
+        <item itemvalue="Python.1. Bakery v1" />
+        <item itemvalue="Python.0.2. Experiment v2" />
         <item itemvalue="Python.9. HD - Movie v1" />
         <item itemvalue="Python.8. HD - Vehicle v1" />
-        <item itemvalue="Python.0.1. Experiment 1" />
-        <item itemvalue="Python.7. Articles v1" />
-        <item itemvalue="Python.6. Inventory v1" />
       </list>
     </recent_temporary>
   </component>
