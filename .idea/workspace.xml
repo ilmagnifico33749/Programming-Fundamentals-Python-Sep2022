@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/5. ASCII Values v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/5. ASCII Values v2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/0.1. Experiment v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/0.1. Experiment v1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/0.2. Experiment v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/0.2. Experiment v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/0.3. Experiment v3.py" beforeDir="false" afterPath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/0.3. Experiment v3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/5. ASCII Values v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/10. Dictionaries/10.1. LAB/5. ASCII Values v2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,7 @@
       <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.0.1. Experiment v1">
+  <component name="RunManager" selected="Python.5. ASCII Values v2">
     <configuration name="0.1. Experiment v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,8 +169,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0.1. Experiment v1" />
         <item itemvalue="Python.5. ASCII Values v2" />
+        <item itemvalue="Python.0.1. Experiment v1" />
         <item itemvalue="Python.0.3. Experiment v3" />
         <item itemvalue="Python.5. ASCII Values v1" />
         <item itemvalue="Python.0.2. Experiment v2" />
