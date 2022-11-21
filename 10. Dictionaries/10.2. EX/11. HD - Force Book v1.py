@@ -21,17 +21,21 @@ while command != "Lumpawaroo":
         for key, value in my_dict_force_users.items():
             if person in value:
                 my_dict_force_users[key].pop(value.index(person))
+                # or my_dict_force_users[key].remove(person)
                 break
-        my_dict_force_users[force_side].append(person)
+        if force_side not in my_dict_force_users.keys():
+            my_dict_force_users[force_side] = [person]
+        else:
+            my_dict_force_users[force_side].append(person)
         print(f"{person} joins the {force_side} side!")
     command = input()
 else:
     for key in my_dict_force_users.keys():
         if len(my_dict_force_users[key]) > 0:
-            print(f"Side: {key}, Members: {len(my_dict_force_users[key])} ")
+            print(f"Side: {key}, Members: {len(my_dict_force_users[key])}")
+            # [print(f"! {user}") for user in my_dict_force_users[force_side]]
             for jedi in my_dict_force_users[key]:
                 print(f"! {jedi}")
-
 # --------------------------#
 # Light | Peter
 # Dark | Kim
