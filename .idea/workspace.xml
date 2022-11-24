@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/11. Text Processing/11.2. EX/6. Replace Repeating Chars v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11. Text Processing/11.2. EX/6. Replace Repeating Chars v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Text Processing/11.2. EX/7. String Explosion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11. Text Processing/11.2. EX/0.1. Experiment_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/11. Text Processing/11.2. EX/0.1. Experiment_v1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11. Text Processing/11.2. EX/0.2. Experiment_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/11. Text Processing/11.2. EX/0.2. Experiment_v2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
