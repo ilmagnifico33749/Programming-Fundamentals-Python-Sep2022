@@ -1,3 +1,5 @@
+# For some reason I'm getting only 28/100 points from Judge; the output is correct, no idea ...
+
 user_input = input()
 
 current_part = ""

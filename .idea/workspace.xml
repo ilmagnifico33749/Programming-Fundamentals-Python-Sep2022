@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/11. Text Processing/11.2. EX/10. HD - Winning Ticket.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11. Text Processing/11.2. EX/0.1. Experiment_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/11. Text Processing/11.2. EX/0.1. Experiment_v1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11. Text Processing/11.2. EX/0.3. Experiment_v3.py" beforeDir="false" afterPath="$PROJECT_DIR$/11. Text Processing/11.2. EX/0.3. Experiment_v3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11. Text Processing/11.2. EX/9. HD - Rage Quit v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/11. Text Processing/11.2. EX/9. HD - Rage Quit v1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,28 @@
       <recent name="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9. HD - Rage Quit v1">
+  <component name="RunManager" selected="Python.10. HD - Winning Ticket">
+    <configuration name="0.1. Experiment_v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming-Fundamentals-Python-Sep2022" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11. Text Processing/11.2. EX" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11. Text Processing/11.2. EX/0.1. Experiment_v1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="0.2. Experiment_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7. String Exp v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10. HD - Winning Ticket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming-Fundamentals-Python-Sep2022" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,28 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\11. Text Processing\11.2. EX\7. String Exp v1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="8. HD - Letters Change Numbers v1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programming-Fundamentals-Python-Sep2022" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11. Text Processing/11.2. EX" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Home PC\Documents\GitHub\Programming-Fundamentals-Python-Sep2022\11. Text Processing\11.2. EX\8. HD - Letters Change Numbers v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11. Text Processing/11.2. EX/10. HD - Winning Ticket.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.9. HD - Rage Quit v1" />
-        <item itemvalue="Python.0.3. Experiment_v3" />
-        <item itemvalue="Python.8. HD - Letters Change Numbers v1" />
+        <item itemvalue="Python.10. HD - Winning Ticket" />
         <item itemvalue="Python.0.2. Experiment_v2" />
-        <item itemvalue="Python.7. String Exp v1" />
+        <item itemvalue="Python.0.3. Experiment_v3" />
+        <item itemvalue="Python.0.1. Experiment_v1" />
+        <item itemvalue="Python.9. HD - Rage Quit v1" />
       </list>
     </recent_temporary>
   </component>
