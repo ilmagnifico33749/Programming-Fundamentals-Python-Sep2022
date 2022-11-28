@@ -21,4 +21,3 @@ for days in range(30):
 
 if enough_food == True:
     print(f"Everything is fine! Puppy is happy! Food: {(food_quan/1000):.2f}, Hay: {(hay_quant/1000):.2f}, Cover: {(cover_quan/1000):.2f}.")
-
