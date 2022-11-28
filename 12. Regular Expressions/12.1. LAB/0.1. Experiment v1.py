@@ -1,4 +1,2 @@
-import re
-txt = "The rain in Spain"
-x = re.findall("ai", txt)
-print(x)
+a = (int(input()) * 20)
+print(a)
