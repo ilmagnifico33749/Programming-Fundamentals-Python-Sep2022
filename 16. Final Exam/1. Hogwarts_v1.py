@@ -29,6 +29,8 @@ for command in list_actions:
         index = command_details[1]
         letter = command_details[2]
         if index.isnumeric() == True:
+            ### HERE I MADE A MISTAKE - forgot that the index can also be a negative number
+            ### Therefore the code below shoud be "abs(int(index))"
             if 0 <= int(index) < (len(spell_ciphered)):
                 spell_ciphered = spell_ciphered.replace(spell_ciphered[int(index)], letter)
                 print(f"Done!")
