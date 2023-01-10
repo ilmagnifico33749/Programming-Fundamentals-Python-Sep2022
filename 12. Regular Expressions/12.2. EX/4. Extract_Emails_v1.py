@@ -1,14 +1,17 @@
 import re
 
-# sentence = input()
-sentence = "Please contact us at: support@github.com."
+sentence = input()
+# sentence = "Please contact us at: support@github.com."
 
-regex = "()[@]()"
+regex = "(([a-zA-Z]+)([.]|[,]|[-]|[_]*)([a-zA-Z]*)([@])([a-zA-Z]+)([.])([a-zA-Z]+))"
+# regex = "([a-zA-Z]+[.|,|-|_]*[a-zA-Z]*[@][a-zA-Z]+[.][a-zA-Z]+)"
 
-matches = re.findall(regex, sentence, flags=)
+matches = re.findall(regex, sentence)
+# matches = re.findall(regex, sentence, flags=re.I)
 
-print()
-
+for match in matches:
+    print(match[0])
+#     # print(match)
 
 ######################################################
 # Input 1:
