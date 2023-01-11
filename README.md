@@ -1,1 +1,1 @@
-This is a repo for the projects, problems and ex related to the SoftUni courses.
+This is a repo for problems, exercises and projects related to the SoftUni courses.
