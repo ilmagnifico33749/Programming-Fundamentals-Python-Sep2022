@@ -1,2 +1,1 @@
-# Programming-Fundamentals-Python-Sep2022
-This repository contains solutions of problems from the SoftUni Course: Programming-Fundamentals-Python-Sep2022
+This is a repo for the projects, problems and ex related to the SoftUni programming courses.
