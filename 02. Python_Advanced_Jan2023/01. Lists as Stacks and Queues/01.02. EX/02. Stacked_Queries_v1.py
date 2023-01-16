@@ -1,4 +1,5 @@
 my_stack_1 = []
+my_stack_1_reversed = []
 num_queries = int(input())
 
 for queries in range(num_queries):
@@ -6,7 +7,7 @@ for queries in range(num_queries):
     command_details = command.split(" ")
     query_command = command_details[0]
     if query_command == "1":
-        my_stack_1.append(command_details[1])
+        my_stack_1.append(int(command_details[1]))
     elif query_command == "2":
         if len(my_stack_1) > 0:
             my_stack_1.pop()
@@ -18,7 +19,9 @@ for queries in range(num_queries):
             print(min(my_stack_1))
 
 while my_stack_1:
-    print(my_stack_1.pop(), end=", ")
+    my_stack_1_reversed.append(str(my_stack_1.pop()))
+
+print(', '.join(my_stack_1_reversed))
 
 # #######################
 # #######################
