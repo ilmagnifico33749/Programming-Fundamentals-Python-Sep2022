@@ -39,12 +39,15 @@ def time(starting_time, time_passing_type, time_passing_value):
 ######################################################################
 #Below is an example about it's use:
 
-initial_time = "23:59:59"
+# initial_time = "23:59:59"
+initial_time = "12:23:14"
+time_passing_format = "seconds"
+time_passing_value = 1
 # print(time(input(), input(), input()))
 for times in range(80):
     print(f"Initial Time: {initial_time}")
-    # initial_time = "23:59:59"
-    new_time = time(initial_time, "seconds", 1)
+    new_time = time(initial_time, time_passing_format, time_passing_value)
+    print(f"Passed: {time_passing_value} {time_passing_format}")
     print(f"New Time: {new_time}")
     initial_time = new_time
     print(30 * "#")
