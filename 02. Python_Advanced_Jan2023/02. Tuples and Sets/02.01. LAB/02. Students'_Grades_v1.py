@@ -4,13 +4,13 @@ my_dict_students = {}
 for student in range(students):
     student, grade = tuple(input().split(" "))
     if student not in my_dict_students:
-        my_dict_students[student] = [grade]
+        my_dict_students[student] = [f"{float(grade):.2f}"]
     else:
-        my_dict_students[student].append(grade)
+        my_dict_students[student].append(f"{float(grade):.2f}")
 
 for key, value in my_dict_students.items():
-    print(f"{key} -> {va}")
-
+    average_grades = sum([float(x) for x in my_dict_students[key]])/len(list(my_dict_students[key]))
+    print(f"{key} -> {' '.join(value)} (avg: {average_grades:.2f})")
 
 # #
 # 7
@@ -24,3 +24,6 @@ for key, value in my_dict_students.items():
 # ----
 #
 # #
+
+
+
