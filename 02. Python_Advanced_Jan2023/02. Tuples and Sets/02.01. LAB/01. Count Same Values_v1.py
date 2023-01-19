@@ -1,13 +1,9 @@
-# user_input = "-2.5 4 3 -2.5 -5.5 4 3 3 -2.5 3"
 numbers = tuple(map(float, input().split(" ")))
 numbers_count = {}
 
 for number in numbers:
-    if number == 2.0:
-        print(number)
     if number not in numbers_count:
         numbers_count[number] = 0
-
     numbers_count[number] += 1
 
 [print(f"{key} - {value} times") for key,value in numbers_count.items()]
