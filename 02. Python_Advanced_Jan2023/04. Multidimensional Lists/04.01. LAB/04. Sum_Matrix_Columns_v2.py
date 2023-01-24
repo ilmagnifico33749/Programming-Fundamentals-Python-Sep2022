@@ -2,11 +2,7 @@ rows_num, columns_num = [int(x) for x in input().split(", ")]
 
 matrix = [[int(x) for x in input().split(" ")] for _ in range(rows_num)]
 
-for number_symbols in range(columns_num):
-    current_sum = 0
-    for rows in range(len(matrix)):
-        current_sum += matrix[rows][number_symbols]
-    print(f"{current_sum}")
+[print(sum([matrix[rows][number_symbols] for rows in range(rows_num)])) for number_symbols in range(columns_num)]
 
 # ############
 # Input_1:
