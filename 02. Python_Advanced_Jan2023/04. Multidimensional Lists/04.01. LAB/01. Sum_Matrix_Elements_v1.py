@@ -6,6 +6,9 @@ for row in range(rows):
     matrix.append([int(x) for x in input().split(", ")])
 
 print(sum([sum(matrix[index]) for index in range(len(matrix))]))
+# or
+# print(sum([sum(element) for element in matrix]))
+
 print(matrix)
 
 # ###
