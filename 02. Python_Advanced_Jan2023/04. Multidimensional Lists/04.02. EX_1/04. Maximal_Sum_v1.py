@@ -20,17 +20,16 @@ def iterator_sqmatrix_within_matrix(primary_matrix, square_size):
             current_matrix = [(primary_matrix[rows][columns:(columns + square_size)]) for rows in
                                      range(rows, (rows + square_size))]
             flattened_square_matrix = [num for row in current_matrix for num in row]
-            sum_current_flattenned_sq_matrix = sum(flattened_square_matrix)
-            if highest_sum < sum_current_flattenned_sq_matrix:
-                highest_sum = sum_current_flattenned_sq_matrix
+            sum_current_flattened_sq_matrix = sum(flattened_square_matrix)
+            if highest_sum < sum_current_flattened_sq_matrix:
+                highest_sum = sum_current_flattened_sq_matrix
                 highest_sum_matrix = current_matrix
 
     print(f"Sum = {highest_sum}")
     ([print(' '.join(list(map(str, highest_sum_matrix[row])))) for row in range(len(highest_sum_matrix))])
 
+
 iterator_sqmatrix_within_matrix(matrix,square_matrix_size)
-
-
 
 # ############
 # Input_1:
