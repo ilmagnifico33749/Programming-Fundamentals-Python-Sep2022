@@ -1,4 +1,6 @@
 ### !!! Getting 80/100 in Judge because Judge is being Judge ...
+### It seems like the reson is the way the verification is being performed.
+### When using functions Judge gives 100/100
 
 number_rows_columns = int(input())
 matrix = [[x for x in input()] for rows in range(number_rows_columns)]
