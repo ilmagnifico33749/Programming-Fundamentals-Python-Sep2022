@@ -10,17 +10,6 @@ def matrix_creator(rows_number):
 
 matrix = matrix_creator(rows_num)
 
-
-def square_matrix_creator(primary_matrix, square_size, starting_index):
-    primary_matrix = primary_matrix
-    square_size = square_size
-    starting_index = starting_index
-    square_matrix_created = [(primary_matrix[rows][starting_index:(starting_index+square_size)]) for rows in range(square_size)]
-    return square_matrix_created
-
-# print(square_matrix_creator(matrix, square_matrix_size, 0))
-
-
 def iterator_sqmatrix_within_matrix(primary_matrix, square_size):
     primary_matrix = primary_matrix
     square_size = square_size
@@ -30,20 +19,17 @@ def iterator_sqmatrix_within_matrix(primary_matrix, square_size):
         for columns in range(len(primary_matrix[rows])-(square_size-1)):
             current_matrix = [(primary_matrix[rows][columns:(columns + square_size)]) for rows in
                                      range(rows, (rows + square_size))]
-            # print(current_matrix)
             flattened_square_matrix = [num for row in current_matrix for num in row]
             sum_current_flattenned_sq_matrix = sum(flattened_square_matrix)
             if highest_sum < sum_current_flattenned_sq_matrix:
                 highest_sum = sum_current_flattenned_sq_matrix
                 highest_sum_matrix = current_matrix
-        # print(50 * '-')
 
-
-
-    print(f"Sum: {highest_sum}")
+    print(f"Sum = {highest_sum}")
     ([print(' '.join(list(map(str, highest_sum_matrix[row])))) for row in range(len(highest_sum_matrix))])
 
 iterator_sqmatrix_within_matrix(matrix,square_matrix_size)
+
 
 
 # ############
