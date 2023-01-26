@@ -1,5 +1,4 @@
 rows, columns = [int(x) for x in input().split(" ")]
-element_size = 3
 
 def matrix_creator(rows_number, columns_number, letters_starting_index):
     rows_number = rows_number
