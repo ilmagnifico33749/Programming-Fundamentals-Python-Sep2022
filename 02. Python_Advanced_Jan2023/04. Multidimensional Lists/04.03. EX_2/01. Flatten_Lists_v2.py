@@ -1,20 +1,17 @@
-### !!! 75/100 (3 of 4 checks) points from Judge !!!
-
 def matrix_creator(user_input):
     user_input = user_input
     created_matrix = [sublist.split() for sublist in user_input.split("|")]
     return created_matrix[::-1]
 
-
 matrix = matrix_creator(input())
 
 
-def matrix_to_string(primary_matrix):
+def flattening_matrix(primary_matrix):
     primary_matrix = primary_matrix
-    return ' '.join([' '.join(sublist) for sublist in matrix])
+    flattened_matrix = [num for row in primary_matrix for num in row]
+    return ' '.join(flattened_matrix)
 
-
-print(matrix_to_string(matrix))
+print(flattening_matrix(matrix))
 
 
 # ####################
