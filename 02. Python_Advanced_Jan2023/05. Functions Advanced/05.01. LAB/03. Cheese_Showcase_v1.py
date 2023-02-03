@@ -10,7 +10,7 @@ def sorting_cheeses(**cheeses_dict):
         quantity_list = sorted(quantities, reverse=True)
         result += quantity_list
 
-    return  "\n".join([str(x) for x in result])
+    return "\n".join([str(x) for x in result])
 
 
 # ###################################
