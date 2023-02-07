@@ -1,6 +1,4 @@
 def whatever_func(list_numbers):
-    print(list_numbers)
-    print(*list_numbers)
 
     def sum_negative(*args):
         sum_negative_numbers = sum([abs(int(x)) for x in list_numbers if int(x) < 0])
