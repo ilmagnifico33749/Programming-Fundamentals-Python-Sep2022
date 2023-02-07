@@ -1,18 +1,13 @@
-def even_odd_filter(**args):
-    list_all_nums = []
+def even_odd_filter(**kwargs):
 
-    for value in args.values():
-        [list_all_nums.append(x) for x in value]
-
-    # return list_all_nums
-
-    for key in args.keys():
+    for key in kwargs.keys():
         if key == "even":
-            args[key] = [int(x) for x in list_all_nums if int(x) % 2 == 0]
+            kwargs[key] = [int(x) for x in kwargs[key] if int(x) % 2 == 0]
         elif key == "odd":
-            args[key] = [int(x) for x in list_all_nums if int(x) % 2 != 0]
+            kwargs[key] = [int(x) for x in kwargs[key] if int(x) % 2 != 0]
 
-    return args
+    return kwargs
+
 
 # #######################################
 # Test_Code_1:
