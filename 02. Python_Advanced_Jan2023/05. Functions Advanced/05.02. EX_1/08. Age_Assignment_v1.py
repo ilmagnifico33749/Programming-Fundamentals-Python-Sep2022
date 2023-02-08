@@ -1,12 +1,10 @@
 def age_assignment(*args, **kwargs):
     new_dict = {}
-    #
-    # for name in args:
-    #     for letter, age in kwargs.items():
-    #         if letter in name:
-    #             new_dict[name] = age
 
-    [[new_dict[name] = age if letter in name for letter, age in kwargs.items()] for name in args]
+    for name in args:
+        for letter, age in kwargs.items():
+            if letter in name:
+                new_dict[name] = age
 
     new_dict = sorted(new_dict.items(), key=lambda x: x[0])
 
