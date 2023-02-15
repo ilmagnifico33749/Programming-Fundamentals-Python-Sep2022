@@ -4,11 +4,17 @@ def fill_the_box(height, length, width, *args):
     total_size_boxes_to_fit = sum(boxes_to_fit)
     box_size = height * length * width
 
-    if box_size < total_size_boxes_to_fit:
-        return f"No more free space! You have {abs(box_size - total_size_boxes_to_fit)} more cubes."
-    else:
-        return f"There is free space in the box. You could put {box_size - total_size_boxes_to_fit} more cubes."
+    def filling_the_box(box_size, total_size_boxes_to_fit):
+        box_size -= 1
+        if total_size_boxes_to_fit == 0:
+            if box_size < 0:
+                return f"No more free space! You have {abs(box_size)} more cubes."
+            else:
+                return f"There is free space in the box. You could put {box_size} more cubes."
+        else:
+            return filling_the_box(box_size, total_size_boxes_to_fit-1)
 
+    return filling_the_box(box_size, total_size_boxes_to_fit-1)
 
 
 # ##############################################################
