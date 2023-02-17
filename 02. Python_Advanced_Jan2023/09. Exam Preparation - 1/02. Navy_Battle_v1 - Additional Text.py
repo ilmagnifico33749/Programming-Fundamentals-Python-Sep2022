@@ -1,4 +1,5 @@
 submarine_health = 3
+starting_turn = 0
 
 def matrix_creator(square_size):
     matrix_created = [[str(x) for x in input()] for rows in range(square_size)]
@@ -75,12 +76,17 @@ def submarine_movement(battlefield, command, submarine_position):
         return initial_position_submarine
 
 
-def battle_turn(battlefield, submarine_life_points, submarine_position):
-    command = input()
+def battle_turn(battlefield, submarine_life_points, submarine_position, current_turn):
+    current_turn += 1
+    print(8 * "*")
+    print(f"TURN: {current_turn}")
+    print(8 * "*")
+    # command = f"Move: {input()}"
+    command = input("Move: ")
     print(f"Starting Position Submarine: {submarine_position}")
     new_position_submarine = submarine_movement(battlefield, command, submarine_position)
     print(f"New Position Submarine: {new_position_submarine}")
-    print(f"Situation on New Position Submarine: {battlefield[new_position_submarine[0]][new_position_submarine[1]]}")
+    print(f"Situation on the new field: {battlefield[new_position_submarine[0]][new_position_submarine[1]]}")
     new_situation_battlefield, new_submarine_life_points = current_position_action(battlefield, new_position_submarine, submarine_life_points)
     print(50 * '-')
     print(f"Current Situation Battlefield: ")
@@ -91,15 +97,17 @@ def battle_turn(battlefield, submarine_life_points, submarine_position):
     print(f"No. Current Ships: {current_number_ships}")
     print(50 * "#")
     if new_submarine_life_points > 0 and current_number_ships > 0:
-        return battle_turn(new_situation_battlefield, new_submarine_life_points, new_position_submarine)
+        return battle_turn(new_situation_battlefield, new_submarine_life_points, new_position_submarine, current_turn)
     else:
         if new_submarine_life_points == 0:
-            return f"Mission failed, U-9 disappeared! Last known coordinates {new_position_submarine}!\n{new_situation_battlefield}"
+            print(f"Mission failed, U-9 disappeared! Last known coordinates {new_position_submarine}!")
+            [print(''.join(row)) for row in new_situation_battlefield]
         elif current_number_ships == 0:
-            return f"Mission accomplished, U-9 has destroyed all battle cruisers of the enemy!\n{new_situation_battlefield}"
+            print(f"Mission accomplished, U-9 has destroyed all battle cruisers of the enemy!")
+            [print(''.join(row)) for row in new_situation_battlefield]
 
 
-print(battle_turn(battlefield, submarine_health, initial_position_submarine))
+battle_turn(battlefield, submarine_health, initial_position_submarine, starting_turn)
 
 
 # ###########################################################################
