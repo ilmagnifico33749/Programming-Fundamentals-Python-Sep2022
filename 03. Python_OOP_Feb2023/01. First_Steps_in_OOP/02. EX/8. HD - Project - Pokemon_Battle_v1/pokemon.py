@@ -8,10 +8,6 @@ class Pokemon:
         return f"{self.name} with health {self.health}"
 
 
-
-
-
-
 # ############################################################
 # Test_Code_1:
 # pokemon = Pokemon("Pikachu", 90)
