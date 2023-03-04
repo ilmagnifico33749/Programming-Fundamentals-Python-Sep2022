@@ -44,4 +44,3 @@ print(account.info())
 # 500
 # User Peter with account 5411256 has 500 balance
 # #############################################
-
