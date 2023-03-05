@@ -34,7 +34,7 @@ class PizzaDelivery:
         return f"You've ordered pizza {self.name} prepared with {ingredients_quantity} and the price will be {self.price}lv."
 
 
-# #############################################
+# #######################################################################
 # Test_Code_1:
 margarita = PizzaDelivery('Margarita', 11, {'cheese': 2, 'tomatoes': 1})
 margarita.add_extra('mozzarella', 1, 0.5)
@@ -51,3 +51,4 @@ print(margarita.add_extra('cheese', 1, 1))
 # Please check again the desired quantity of tomatoes!
 # You've ordered pizza Margarita prepared with cheese: 0, tomatoes: 1, mozzarella: 1 and the price will be 9.5lv.
 # Pizza Margarita already prepared, and we can't make any changes!
+# #######################################################################
