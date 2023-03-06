@@ -3,10 +3,11 @@ from project.song import Song
 
 
 class Album:
-    def __init__(self, name: str, songs):
+    def __init__(self, name: str, *songs):
+
         self.name = name
         self.published = False
-        self.songs = [songs]
+        self.songs = list(*songs)
 
     def add_song(self, song: Song):
         if song.single is True:
@@ -17,6 +18,7 @@ class Album:
 
         if song in self.songs:
             return f"Song is already in the album."
+
         self.songs.append(song)
         return f"Song {song.name} has been added to the album {self.name}."
 
@@ -37,16 +39,13 @@ class Album:
         return f"Album {self.name} has been published."
 
     def details(self):
-        # Start - To do properly
-        all_songs = '\n== '.join(current_song.get_info() for current_song in self.songs)
-        # End
+        # all_songs = '\n== '.join(current_song.get_info() for current_song in self.songs)
+        #
+        # return f"Album {self.name}" \
+        #        f"\n== {all_songs}"
+        result = [f"Album {self.name}"]
+        [result.append(f"== {s.get_info()}") for s in self.songs]
 
-        return f"Album {self.name}" \
-               f"\n== {all_songs}"
+        return "\n".join(result)
 
-
-
-
-
-
-
+#

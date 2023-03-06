@@ -1,7 +1,8 @@
 # from song import Song
 # from album import Album
+
 from project.album import Album
-from project.song import Song
+# from project.song import Song
 
 
 class Band:
@@ -26,25 +27,29 @@ class Band:
             return f"Album {album_name} is not found."
 
     def details(self):
-        all_albums = '\n'.join(current_album.details() for current_album in self.albums)
-        return f"Band {self.name}" \
-               f"\n{all_albums}"
+        # all_albums = '\n'.join(current_album.details() for current_album in self.albums)
+        # return f"Band {self.name}" \
+        #        f"\n{all_albums}"
+        result = [f"Band {self.name}"]
+        [result.append(a.details()) for a in self.albums]
+
+        return "\n".join(result)
 
 
 
 # ############################################################
 # Test_Output_1:
-song = Song("Running in the 90s", 3.45, False)
-print(song.get_info())
-album = Album("Initial D", song)
-second_song = Song("Around the World", 2.34, False)
-print(album.add_song(second_song))
-print(album.details())
-print(album.publish())
-band = Band("Manuel")
-print(band.add_album(album))
-print(band.remove_album("Initial D"))
-print(band.details())
+# song = Song("Running in the 90s", 3.45, False)
+# print(song.get_info())
+# album = Album("Initial D", song)
+# second_song = Song("Around the World", 2.34, False)
+# print(album.add_song(second_song))
+# print(album.details())
+# print(album.publish())
+# band = Band("Manuel")
+# print(band.add_album(album))
+# print(band.remove_album("Initial D"))
+# print(band.details())
 # -------------------------------------------------------------
 # Output_1:
 # Running in the 90s - 3.45
