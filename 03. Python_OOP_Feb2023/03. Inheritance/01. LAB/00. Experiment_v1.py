@@ -12,5 +12,6 @@ class Child(Parent):
 
 parent = Parent("Michael")
 child = Child
-print()
+print(child.say_hi)
+print(child.mro())
 
