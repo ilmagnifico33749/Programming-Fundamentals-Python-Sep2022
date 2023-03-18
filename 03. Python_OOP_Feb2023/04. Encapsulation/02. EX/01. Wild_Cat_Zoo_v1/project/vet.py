@@ -1,5 +1,5 @@
-# from project.worker import Worker
-from worker import Worker
+from project.worker import Worker
+# from worker import Worker
 
 class Vet(Worker):
     def __init__(self, vet_name: str, vet_age: int, vet_salary: int):

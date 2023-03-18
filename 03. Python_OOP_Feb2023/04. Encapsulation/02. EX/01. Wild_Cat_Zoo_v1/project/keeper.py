@@ -1,5 +1,5 @@
-# from project.worker import Worker
-from worker import Worker
+from project.worker import Worker
+# from worker import Worker
 
 class Keeper(Worker):
     def __init__(self, keeper_name: str, keeper_age: int, keeper_salary: int):
