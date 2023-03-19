@@ -1,12 +1,15 @@
-from topping import Topping
-from dough import Dough
+from project.dough import Dough
+from project.topping import Topping
+
+# from topping import Topping
+# from dough import Dough
 
 class Pizza:
-    def __init__(self, name: str, dough: Dough, max_number_of_toppings: int, toppings: dict={} ):
+    def __init__(self, name: str, dough: Dough, max_number_of_toppings: int):
         self.name = name
         self.dough = dough
         self.max_number_of_toppings = max_number_of_toppings
-        self.toppings = toppings
+        self.toppings = {}
 
 
     @property
@@ -26,8 +29,8 @@ class Pizza:
 
     @dough.setter
     def dough(self, value):
-        if value == None:
-            return "You should add dough to the pizza"
+        if value is None:
+            raise ValueError("You should add dough to the pizza")
         self.__dough = value
 
 
@@ -54,8 +57,8 @@ class Pizza:
 
 
     def add_topping(self, topping: Topping):
-        if self.__max_number_of_toppings >= len(self.__toppings):
-            return f"Not enough space for another topping"
+        if self.__max_number_of_toppings <= len(self.__toppings):
+            raise ValueError("Not enough space for another topping")
         else:
             if topping in self.__toppings:
                 self.__toppings[topping] += topping.weight

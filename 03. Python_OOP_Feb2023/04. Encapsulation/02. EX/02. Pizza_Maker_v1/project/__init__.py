@@ -1,10 +1,10 @@
-# from project.dough import Dough
-# from project.pizza import Pizza
-# from project.topping import Topping
+from project.dough import Dough
+from project.pizza import Pizza
+from project.topping import Topping
 
-from dough import Dough
-from pizza import Pizza
-from topping import Topping
+# from dough import Dough
+# from pizza import Pizza
+# from topping import Topping
 
 # ###########################################################################
 # Test_Code_1:
@@ -43,6 +43,7 @@ p.add_topping(mozzarella_topping)
 print(p.calculate_total_weight())
 
 p.add_topping(mozzarella_topping)
+
 # -------------------------------------------------------------------------
 # Output_1:
 # Tomato
