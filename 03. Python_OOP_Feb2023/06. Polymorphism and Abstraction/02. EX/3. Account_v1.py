@@ -11,14 +11,12 @@ class Account:
     def handle_transactions(self, transaction_amount):
         if self.balance + transaction_amount < 0:
             raise ValueError("sorry cannot go in debt!")
-            return
         self._transactions.append(transaction_amount)
         return f"New balance: {self.amount}"
 
     def add_transaction(self, amount):
         if not isinstance(amount, int):
             raise ValueError("please use int for amount")
-            return
         return self.handle_transactions(amount)
 
     def __add__(self, other):
@@ -38,8 +36,8 @@ class Account:
     def __len__(self):
         return len(self._transactions)
 
-    def __getitem__(self, item):
-        return f"{self._transactions[item]}"
+    def __getitem__(self, transaction_index):
+        return f"{self._transactions[transaction_index]}"
 
     def __reversed__(self):
         # not sure whether only to reverse the order or also to return it
@@ -90,6 +88,12 @@ print(acc != acc2)
 acc3 = acc + acc2
 print(acc3)
 print(acc3._transactions)
+
+print(f"ACC Balance: {acc.balance}")
+print(f"ACC2 Balance: {acc2.balance}")
+acc2.add_transaction(-30)
+print(f"ACC2 Balance: {acc2.balance}")
+print(acc != acc2)
 # ---------------------------------------------------
 # Output_1:
 # Account of bob with starting amount: 10
