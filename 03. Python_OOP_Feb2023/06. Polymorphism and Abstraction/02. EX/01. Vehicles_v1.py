@@ -1,3 +1,5 @@
+# ! 83/100 in Judge - 1 X from 6 /the second one/
+
 from abc import ABC, abstractmethod, abstractclassmethod
 
 
