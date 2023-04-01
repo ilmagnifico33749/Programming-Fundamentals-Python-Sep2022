@@ -2,42 +2,50 @@ from abc import ABC, abstractmethod
 
 
 class Animal(ABC):
+
     def __init__(self, name: str, weight: float):
         self.name = name
         self.weight = weight
         self.food_eaten = 0
 
+    @property
     @abstractmethod
-    def make_sound(self):
-        pass
+    def food_that_eats(self):
+        ...
 
+    @property
     @abstractmethod
-    def food_animal_eats(self):
-        pass
+    def gained_weight(self):
+        ...
 
+    @staticmethod
     @abstractmethod
-    def weight_gained(self):
-        pass
+    def make_sound():
+        ...
 
     def feed(self, food):
-        if food not in self.food_animal_eats():
-        # attention to how the food is defined and returned
-            return f"{self.__class__.__name__} does not eat {food}!"
-        self.weight += self.weight_gained()
-        self.food_eaten += 1
+        if type(food) not in self.food_that_eats:
+            return f"{self.__class__.__name__} does not eat {food.__class__.__name__}!"
 
-    def __repr__(self):
-        pass
+        self.weight += food.quantity * self.gained_weight
+        self.food_eaten += food.quantity
 
 
 class Bird(Animal, ABC):
-    def __init__(self, bird_name: str, bird_weight: float, bird_wing_size: float):
-        self.wing_size = bird_wing_size
-        super().__init__(bird_name, bird_weight)
+
+    def __init__(self, name: str, weight: float, wing_size: float):
+        super().__init__(name, weight)
+        self.wing_size = wing_size
+
+    def __repr__(self):
+        return f"{self.__class__.__name__} [{self.name}, {self.wing_size}, {self.weight}, {self.food_eaten}]"
 
 
 class Mammal(Animal, ABC):
-    def __init__(self, mammal_name: str, mammal_weight: float, living_region: str):
-        self.living_region = living_region
-        super().__init__(mammal_name, mammal_weight)
 
+    def __init__(self, name: str, weight: float, living_region: str):
+        super().__init__(name, weight)
+        self.living_region = living_region
+
+    def __repr__(self):
+        return f"{self.__class__.__name__} [{self.name}, {self.weight}, {self.living_region}, {self.food_eaten}]"

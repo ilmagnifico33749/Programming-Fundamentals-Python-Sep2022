@@ -1,37 +1,32 @@
-# from animal import Animal
-# from animal import Bird
-
 from project.animals.animal import Bird
 from project.food import Meat, Fruit, Vegetable, Seed
 
 
 class Owl(Bird):
-    def __init__(self, owl_name: str, owl_weight: float, owl_wing_size: float):
-        super().__init__(owl_name, owl_weight, owl_wing_size)
 
-    def make_sound(self):
-        return f"Hoot Hoot"
+    @staticmethod
+    def make_sound():
+        return "Hoot Hoot"
 
-    def food_animal_eats(self):
-        return [Meat]
-
-    def weight_gained(self):
+    @property
+    def gained_weight(self):
         return 0.25
 
-    def __repr__(self):
-        return f"{self.__class__.__name__}, {self.__class__.__name__}, {self.owl_wing_size}, {self.owl_weight}, {self.food_eaten}"
+    @property
+    def food_that_eats(self):
+        return [Meat]
 
 
 class Hen(Bird):
-    def __init__(self, hen_name: str, hen_weight: float, hen_wing_size: float):
-        super().__init__(hen_name, hen_weight, hen_wing_size)
 
-    def make_sound(self):
-        return f"Cluck"
+    @staticmethod
+    def make_sound():
+        return "Cluck"
 
-    def food_animal_eats(self):
-        return [Vegetable, Fruit, Meat]
-
-    def weight_gained(self):
+    @property
+    def gained_weight(self):
         return 0.35
 
+    @property
+    def food_that_eats(self):
+        return [Meat, Fruit, Vegetable, Seed]
