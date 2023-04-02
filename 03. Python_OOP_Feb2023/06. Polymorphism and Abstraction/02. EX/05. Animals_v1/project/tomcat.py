@@ -3,7 +3,7 @@ from project.cat import Cat
 
 
 class Tomcat(Animal):
-    def __init__(self, name, age, gender="Female"):
+    def __init__(self, name, age, gender="Male"):
         super().__init__(name, age, gender)
 
     @staticmethod
