@@ -1,4 +1,6 @@
-
+def squares(n):
+    for times in range(1, n+1):
+        yield times ** 2
 
 
 # ##################################

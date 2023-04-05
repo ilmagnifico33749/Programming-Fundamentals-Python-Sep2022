@@ -1,54 +1,35 @@
-from collections import deque
 
-my_number = 12345
-my_word = "12345"
-my_list = [1, 2, 3, 4, 5]
-my_tuple = tuple(my_list)
-my_deque = deque(my_list)
-my_dict = {1: "A", 2: "B", 3: "C", 4: "E", 5: "D"}
 
-print(50 * '#')
+class CustomRange:
+    def __init__(self, start, end, step=1):
+        self.start = start
+        self.end = end
+        self.step = step
+        self.current_value = ...
 
-print(50 * '-')
-# my_iter_1 = iter(my_number) - #TypeError: 'int' object is not iterable
-print(50 * '-')
+    def __iter__(self):
+        return self
 
-my_iter_2 = iter(my_word)
-print(next(my_iter_2))
-print(50 * '-')
+    def __next__(self):
+        if self.start <= self.end:
+            self.current_value = self.start
+            self.start += self.step
+            return self.current_value
+        else:
+            raise StopIteration()
 
-my_iter_3 = iter(my_list)
-print(next(my_iter_3))
-print(50 * '-')
-
-my_iter_4 = iter(my_tuple)
-print(next(my_iter_4))
-print(50 * '-')
-
-my_iter_5 = iter(my_deque)
-print(next(my_iter_5))
-print(50 * '-')
-
-my_iter_6 = iter(my_dict)
-print(next(my_iter_6))
-print(50 * '-')
-
-print(50 * '#')
-
-# ----------------------------
-# Code representation of the "FOR" loop:
-
-iter_object = iter(my_list)
-while True:
-    try:
-        element = next(iter_object)
-        print(element)
-    except StopIteration:
-        break
+    def __repr__(self): return str(self.current_value)
 
 
 
 
+custom_iter = CustomRange(1, 11, 2)
+print(iter(custom_iter))
+# print(next(custom_iter))
+# print(next(custom_iter))
+
+# while True:
+#     print(next(custom_iter))
 
 
 
