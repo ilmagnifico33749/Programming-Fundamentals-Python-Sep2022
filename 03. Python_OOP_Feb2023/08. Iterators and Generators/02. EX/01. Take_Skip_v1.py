@@ -4,9 +4,7 @@ class take_skip:
         self.count = count
         self.current_index = 0
         self.current_value = ...
-        # self.iterable_object = [x for x in range(0, self.count+1, self.step)]
         self.iterable_object = [x * self.step for x in range(self.count)]
-
 
     def __iter__(self):
         return self
@@ -35,9 +33,9 @@ for number in numbers:
 # 10
 # ##################################
 # Test_Code_1:
-# numbers = take_skip(10, 5)
-# for number in numbers:
-#     print(number)
+numbers = take_skip(10, 5)
+for number in numbers:
+    print(number)
 # ---------------------------------
 # Output_1:
 # 0
