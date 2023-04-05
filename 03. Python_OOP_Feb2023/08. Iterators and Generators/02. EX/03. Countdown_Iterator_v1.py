@@ -1,16 +1,17 @@
-class dictionary_iter:
-    def __init__(self, dictionary):
-        self.current_index = 0
+class countdown_iterator:
+    def __init__(self, count):
+        self.countdown_start_num = count
         self.current_value = ...
-        self.iterable = list(dictionary.items())
+        self.iterable = [x for x in range(self.countdown_start_num + 1)]
+        self.current_index = -1
 
     def __iter__(self):
         return self
 
     def __next__(self):
-        if self.current_index <= len(self.iterable) - 1:
+        if self.current_index >= -len(self.iterable):
             self.current_value = self.iterable[self.current_index]
-            self.current_index += 1
+            self.current_index -= 1
             return self.current_value
         else:
             raise StopIteration
@@ -18,20 +19,18 @@ class dictionary_iter:
 
 # ##################################
 # Test_Code_1:
-result = dictionary_iter({1: "1", 2: "2"})
-for x in result:
-    print(x)
+iterator = countdown_iterator(10)
+for item in iterator:
+    print(item, end=" ")
 # ---------------------------------
 # Output_1:
-# (1, '1')
-# (2, '2')
+# 10 9 8 7 6 5 4 3 2 1 0
 # ##################################
 # Test_Code_2:
-result = dictionary_iter({"name": "Peter", "age": 24})
-for x in result:
-    print(x)
+iterator = countdown_iterator(0)
+for item in iterator:
+    print(item, end=" ")
 # ---------------------------------
 # Output_2:
-# ("name", "Peter")
-# ("age", 24)
+# 0
 # ##################################

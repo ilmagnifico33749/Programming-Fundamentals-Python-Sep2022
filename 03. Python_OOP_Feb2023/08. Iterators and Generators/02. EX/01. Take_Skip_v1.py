@@ -32,12 +32,12 @@ for number in numbers:
 # 8
 # 10
 # ##################################
-# Test_Code_1:
+# Test_Code_2:
 numbers = take_skip(10, 5)
 for number in numbers:
     print(number)
 # ---------------------------------
-# Output_1:
+# Output_2:
 # 0
 # 10
 # 20
