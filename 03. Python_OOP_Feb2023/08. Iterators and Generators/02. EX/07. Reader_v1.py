@@ -3,6 +3,7 @@ def read_next(*iterable):
         for sub_item in item:
             yield sub_item
 
+
 # ##################################
 # Test_Code_1:
 for item in read_next("string", (2,), {"d": 1, "i": 2, "c": 3, "t": 4}):
