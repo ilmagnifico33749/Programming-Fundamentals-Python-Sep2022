@@ -3,7 +3,7 @@ def fibonacci():
     y = 1
     while True:
         sum_x_y = x + y
-        yield sum_x_y
+        yield x
         x = y
         y = sum_x_y
 
