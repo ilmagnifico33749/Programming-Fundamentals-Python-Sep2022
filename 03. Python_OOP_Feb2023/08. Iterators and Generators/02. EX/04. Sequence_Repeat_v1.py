@@ -21,7 +21,6 @@ class sequence_repeat:
             raise StopIteration
 
 
-
 # ##################################
 # Test_Code_1:
 result = sequence_repeat('abc', 5)
