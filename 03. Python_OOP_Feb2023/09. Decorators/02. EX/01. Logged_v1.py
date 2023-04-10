@@ -1,8 +1,8 @@
 def logged(function):
-    def wrapper(*parameters):
-        return f"you called {function.__name__}{parameters}\n" \
-               f"it returned {function(*parameters)}"
-    return wrapper
+    def wrapper():
+        # return function
+        return function.__name__
+    return wrapper()
 
 # ###################################################
 # Test_Code_1:
