@@ -34,6 +34,7 @@ else:
     for duck, duck_info in ducks_dict.items():
         print(f"{duck}: {duck_info['Given_Away']}")
 
+
 # ###################################################
 # Test_Code_1:
 # 10 15 12 18 22 6
