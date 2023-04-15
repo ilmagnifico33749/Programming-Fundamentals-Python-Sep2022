@@ -2,7 +2,7 @@ command = ""
 coffees_needed = 0
 while command != "END":
     command = input()
-    if command.lower() == "coding" or command.lower() == "dog" or command.lower() == "cat" or command.lower() == "movie":
+    if command.lower() == "coding" or command.lower() == "dog" or command.lower() == "project" or command.lower() == "movie":
         event = str(command)
         if event.isupper() is True:
             coffees_needed += 2
