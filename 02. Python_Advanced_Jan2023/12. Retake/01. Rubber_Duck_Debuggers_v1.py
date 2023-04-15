@@ -1,3 +1,5 @@
+# 100/100 in Judge
+
 from collections import deque
 
 ducks_dict = {

@@ -1,3 +1,5 @@
+# 75/100 in Judge, two anonymous verifications are failing, there's no sense ...
+
 field_size = int(input())
 all_movement_commands = input(). split(", ")
 
