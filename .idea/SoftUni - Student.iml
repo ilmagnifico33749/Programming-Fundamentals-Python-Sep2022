@@ -3,7 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/03. Python_OOP_Feb2023/06. Polymorphism and Abstraction/02. EX/04. Wild_Farm_v2/project" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/03. Python_OOP_Feb2023/10. Testing/02. EX/02. Vehicle_v1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03. Python_OOP_Feb2023/10. Testing/02. EX/03. Hero_v1" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9 (venv)" jdkType="Python SDK" />
