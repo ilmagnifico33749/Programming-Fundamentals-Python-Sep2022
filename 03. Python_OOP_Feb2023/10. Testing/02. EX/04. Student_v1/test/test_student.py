@@ -55,7 +55,6 @@ class Test_Student(unittest.TestCase):
         self.assertEqual(result_return, expected_return)
         self.assertEqual(notes_in_course, expected_notes_in_course)
 
-
     def test_leaving_course_not_enrolled_to(self):
         with self.assertRaises(Exception) as excp_msg:
             self.student.leave_course("Chinese")
