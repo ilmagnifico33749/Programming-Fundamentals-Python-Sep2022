@@ -1,0 +1,61 @@
+-- CREATE TABLE employee(
+-- 	id INT,
+-- 	first_name VARCHAR(50),
+-- 	last_name VARCHAR(50)
+-- );
+
+-- CREATE TABLE categories(
+-- 	id INT,
+-- 	name VARCHAR(50)
+-- );
+
+-- CREATE TABLE products(
+-- 	id INT,
+-- 	name VARCHAR(50),
+-- 	category_id VARCHAR(50)
+-- );
+
+
+-- INSERT INTO employees(id, first_name, last_name)
+-- 	VALUES (1, 'Michael', 'Huntington');
+
+-- INSERT INTO employees(id, first_name, last_name)
+-- 	VALUES (2, 'John', 'Bercow'),
+-- 		   (3, 'Jacob', 'ReeseMogg')
+
+-- SELECT * FROM employees;
+
+-- SELECT first_name, last_name FROM employees LIMIT 2;
+
+-- SELECT last_name, id FROM employees WHERE id = 2
+
+-- SELECT id, last_name, first_name FROM employees WHERE id > 1 AND id <= 3
+
+-- UPDATE employees SET last_name = 'Ashcroft' WHERE first_name = 'Michael';
+
+-- SELECT * FROM employees
+
+-- SELECT * FROM employees ORDER BY id ASC;
+
+-- ALTER TABLE employees ADD COLUMN middle_name VARCHAR
+
+# Cannot use the below INSERT command since when adding the column it's value is automatically
+# set to 'NULL' and therefore we have to use the command UPDATE which can be seen just after that.
+-- INSERT INTO employees(middle_name)
+-- 	VALUES ('Simon'),
+-- 		   ('William'),
+-- 		   ('Anthony');
+
+-- UPDATE employees
+-- 	SET middle_name = 'Simon' WHERE first_name = 'John'
+-- 	SET middle_name = 'William' WHERE first_name = 'Jacob'
+-- 	SET middle_name = 'Anthony' WHERE first_name = 'Michael'
+
+-- UPDATE employees SET last_name = 'Rees-Mogg' WHERE first_name = 'Jacob';
+
+-- SELECT * FROM employees
+SELECT id, last_name, first_name, middle_name FROM employees
+
+
+
+
