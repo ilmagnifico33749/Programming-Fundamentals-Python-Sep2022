@@ -1,0 +1,64 @@
+
+07. Exercises_Past_Material_During_Web_Course/02. UnitTesting/01. LAB/00. Test_0.py
+07. Exercises_Past_Material_During_Web_Course/02. UnitTesting/01. LAB/00. Test_1.py
+07. Exercises_Past_Material_During_Web_Course/02. UnitTesting/01. LAB/01.py
+07. Exercises_Past_Material_During_Web_Course/02. UnitTesting/01. LAB/02. Test_Cat.py
+07. Exercises_Past_Material_During_Web_Course/02. UnitTesting/01. LAB/02. Test_Worker.py
+07. Exercises_Past_Material_During_Web_Course/03. OOP/03. Inheritance/01. LAB/00. Experiment 1.py
+07. Exercises_Past_Material_During_Web_Course/03. OOP/03. Inheritance/01. LAB/01. Tests.py
+07. Exercises_Past_Material_During_Web_Course/03. OOP/07. Python OOP Retake Exam - 18 April 2023/managing_app.py
+07. Exercises_Past_Material_During_Web_Course/03. OOP/07. Python OOP Retake Exam - 18 April 2023/route.py
+07. Exercises_Past_Material_During_Web_Course/03. OOP/07. Python OOP Retake Exam - 18 April 2023/user.py
+07. Exercises_Past_Material_During_Web_Course/03. OOP/07. Python OOP Retake Exam - 18 April 2023/vehicles/__init__.py
+07. Exercises_Past_Material_During_Web_Course/03. OOP/07. Python OOP Retake Exam - 18 April 2023/vehicles/base_vehicle.py
+07. Exercises_Past_Material_During_Web_Course/03. OOP/07. Python OOP Retake Exam - 18 April 2023/vehicles/cargo_van.py
+07. Exercises_Past_Material_During_Web_Course/03. OOP/07. Python OOP Retake Exam - 18 April 2023/vehicles/passenger_car.py
+08. PastExamsExercise/.idea/08. PastExamsExercise.iml
+08. PastExamsExercise/.idea/inspectionProfiles/profiles_settings.xml
+08. PastExamsExercise/.idea/misc.xml
+08. PastExamsExercise/.idea/modules.xml
+08. PastExamsExercise/.idea/vcs.xml
+08. PastExamsExercise/07. Python OOP Retake Exam - 18 April 2023/project/__init__.py
+08. PastExamsExercise/07. Python OOP Retake Exam - 18 April 2023/project/__pycache__/__init__.cpython-39.pyc
+08. PastExamsExercise/07. Python OOP Retake Exam - 18 April 2023/project/managing_app.py
+08. PastExamsExercise/07. Python OOP Retake Exam - 18 April 2023/project/route.py
+08. PastExamsExercise/07. Python OOP Retake Exam - 18 April 2023/project/user.py
+08. PastExamsExercise/07. Python OOP Retake Exam - 18 April 2023/project/vehicles/__init__.py
+08. PastExamsExercise/07. Python OOP Retake Exam - 18 April 2023/project/vehicles/__pycache__/__init__.cpython-39.pyc
+08. PastExamsExercise/07. Python OOP Retake Exam - 18 April 2023/project/vehicles/__pycache__/base_vehicle.cpython-39.pyc
+08. PastExamsExercise/07. Python OOP Retake Exam - 18 April 2023/project/vehicles/base_vehicle.py
+08. PastExamsExercise/07. Python OOP Retake Exam - 18 April 2023/project/vehicles/cargo_van.py
+08. PastExamsExercise/07. Python OOP Retake Exam - 18 April 2023/project/vehicles/passenger_car.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/__init__.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/__init__.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/__pycache__/__init__.cpython-39.pyc
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/__pycache__/tournament.cpython-39.pyc
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/equipment/__init__.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/equipment/__pycache__/__init__.cpython-39.pyc
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/equipment/__pycache__/base_equipment.cpython-39.pyc
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/equipment/__pycache__/elbow_pad.cpython-39.pyc
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/equipment/__pycache__/knee_pad.cpython-39.pyc
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/equipment/base_equipment.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/equipment/elbow_pad.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/equipment/knee_pad.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/teams/__init__.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/teams/__pycache__/__init__.cpython-39.pyc
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/teams/__pycache__/base_team.cpython-39.pyc
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/teams/__pycache__/indoor_team.cpython-39.pyc
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/teams/__pycache__/outdoor_team.cpython-39.pyc
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/teams/base_team.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/teams/indoor_team.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/teams/outdoor_team.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/01. & 02. App/project/tournament.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/03. Unit_Testing/project/__init__.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/03. Unit_Testing/project/__pycache__/__init__.cpython-39.pyc
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/03. Unit_Testing/project/__pycache__/trip.cpython-39.pyc
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/03. Unit_Testing/project/test.zip
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/03. Unit_Testing/project/test/__init__.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/03. Unit_Testing/project/test/__pycache__/test.cpython-39.pyc
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/03. Unit_Testing/project/test/test.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/03. Unit_Testing/project/trip.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/__init__.py
+08. PastExamsExercise/08. Python OOP Retake Exam - 15 August 2023/Others/Tests.py
+08. PastExamsExercise/main.py
+08. PastExamsExercise/.idea/workspace.xml
