@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/01.LAB/01.Find_Book_Titles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/01.LAB/02.Replace_Titles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/01.LAB/03.Triangles_on_Bookshelves" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/01.LAB/04.Format_Costs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/01.LAB/06.Format_Date_of_Birth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/01.LAB/07.Harry_Potter_Books" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/01.LAB/5.Year_of_Birth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/02.EX/01.River_Info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/02.EX/02.Concatenate_Geography_Data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/02.EX/03.Capital_Code" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/02.EX/04.(Descr)iption" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/02.EX/05.Substring_River_Length" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -434,7 +432,7 @@
       <workItem from="1696352581079" duration="8235000" />
       <workItem from="1696874039066" duration="3000" />
       <workItem from="1696928623655" duration="3000" />
-      <workItem from="1697109874755" duration="1832000" />
+      <workItem from="1697109874755" duration="7992000" />
     </task>
     <servers />
   </component>
