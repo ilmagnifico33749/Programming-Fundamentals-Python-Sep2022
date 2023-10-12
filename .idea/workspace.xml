@@ -5,21 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/02.Basic_CRUD/02.EX/01.Select_Cities.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/02.Basic_CRUD/02.EX/02.Concatenate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/02.Basic_CRUD/02.EX/03.Remove_Duplicate_Rows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/02.Basic_CRUD/02.EX/04.Limit_Records.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/02.Basic_CRUD/02.EX/05.Skip_Rows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/02.Basic_CRUD/02.EX/06.Find_the_Addresses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/02.Basic_CRUD/02.EX/07.Positive_Even_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/02.Basic_CRUD/02.EX/08.Projects_within_a_Date_Range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/02.Basic_CRUD/02.EX/09.Multiple_Conditions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/02.Basic_CRUD/02.EX/10.Set_of_Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/02.Basic_CRUD/02.EX/11.Compare_Character_Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/02.Basic_CRUD/02.EX/12.Salary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/02.Basic_CRUD/02.EX/13.Missing_Value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/02.Basic_CRUD/02.EX/14.INSERT_Departments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/02.Basic_CRUD/02.EX/15.New_Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/01.LAB/01.Find_Book_Titles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/01.LAB/02.Replace_Titles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/01.LAB/03.Triangles_on_Bookshelves" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/01.LAB/04.Format_Costs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/01.LAB/06.Format_Date_of_Birth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/01.LAB/07.Harry_Potter_Books" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/03.Built_in_functions/01.LAB/5.Year_of_Birth" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -393,15 +385,15 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.y" />
-      <item itemvalue="Python.x" />
-      <item itemvalue="Python.Python_Default_Config" />
       <item itemvalue="Python.02. Matching_Parentheses_v2" />
+      <item itemvalue="Python.Python_Default_Config" />
       <item itemvalue="Python.SoftUni_Student" />
-      <item itemvalue="Python.base_vehicle" />
+      <item itemvalue="Python.x" />
+      <item itemvalue="Python.y" />
+      <item itemvalue="Python.00. Test_0" />
       <item itemvalue="Python.01. Tests" />
       <item itemvalue="Python.02. Test_Cat" />
-      <item itemvalue="Python.00. Test_0" />
+      <item itemvalue="Python.base_vehicle" />
     </list>
     <recent_temporary>
       <list>
@@ -439,7 +431,10 @@
       <workItem from="1696046508459" duration="690000" />
       <workItem from="1696047205397" duration="190000" />
       <workItem from="1696032428626" duration="7000" />
-      <workItem from="1696352581079" duration="7587000" />
+      <workItem from="1696352581079" duration="8235000" />
+      <workItem from="1696874039066" duration="3000" />
+      <workItem from="1696928623655" duration="3000" />
+      <workItem from="1697109874755" duration="1832000" />
     </task>
     <servers />
   </component>
