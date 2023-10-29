@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/04.Data_Agregation/02.EX/10.Wizard_View" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/04.Data_Agregation/02.EX/11.Filter_Max_Deposit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/04.Data_Agregation/02.EX/12.Age_Group" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/04.Data_Agregation/02.EX/13.SUM_the_Employees" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/04.Data_Agregation/02.EX/14.Update_Employees_Data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/04.Data_Agregation/02.EX/15.Categorizes_Salary" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/04.Data_Agregation/02.EX/16.WHERE_Project_Status" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/04.Data_Agregation/02.EX/17.HAVING_Salary_Level" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/04.Data_Agregation/02.EX/18.Nested_CASE_Conditions-HD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/01.LAB/01.Mountains_and_Peaks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/01.LAB/02.Trip_Organization" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/01.LAB/3.SoftUni_Hiking" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/01.LAB/4.Delete_Mountains" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/04.Data_Agregation/02.EX/09.Notes_with_Dumbledore" beforeDir="false" afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/04.Data_Agregation/02.EX/09.Notes_with_Dumbledore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/04.Data_Agregation/Others" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -445,7 +440,8 @@
       <workItem from="1697967841835" duration="19484000" />
       <workItem from="1698164526814" duration="7375000" />
       <workItem from="1698226460167" duration="605000" />
-      <workItem from="1698487640411" duration="14183000" />
+      <workItem from="1698487640411" duration="14959000" />
+      <workItem from="1698580912562" duration="4072000" />
     </task>
     <servers />
   </component>
