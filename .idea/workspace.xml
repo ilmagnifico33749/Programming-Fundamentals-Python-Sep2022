@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/01.LAB/01.Mountains_and_Peaks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/01.LAB/02.Trip_Organization" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/01.LAB/3.SoftUni_Hiking" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/01.LAB/4.Delete_Mountains" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/02.EX/01.PRIMARY_KEY" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/02.EX/02.Remove_Primary_Key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/02.EX/03.Customs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/02.EX/04.Car_Manufacture" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/02.EX/06.Photo_Shooting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/02.EX/08.Study_Session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/02.EX/10.Online_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/02.EX/11.Delete_Cascade" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/02.EX/12.Update_Cascade" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/02.EX/13.SET_NULL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/02.EX/14.Peaks_in_Rila-HD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/05.Table_Relations/02.EX/15.Countries_Without_Any_Rivers_(not_included_in_final_score)-HD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/04.Data_Agregation/Others" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -441,7 +448,7 @@
       <workItem from="1698164526814" duration="7375000" />
       <workItem from="1698226460167" duration="605000" />
       <workItem from="1698487640411" duration="14959000" />
-      <workItem from="1698580912562" duration="4072000" />
+      <workItem from="1698580912562" duration="17105000" />
     </task>
     <servers />
   </component>
