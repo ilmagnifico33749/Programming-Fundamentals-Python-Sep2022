@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/01.LAB/01.Towns_addresses" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/01.LAB/02.Managers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/01.LAB/03.Employees_Projects" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/01.LAB/04.Higher_Salary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/01.Booked_for_nights" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/02.First_10_Apartments_Booked_At" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/03.First_10_Customers_with_Bookings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/04.Booking_Information" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/06.Unassigned_Apartments" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/07.Bookings_Made_by_Lead" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/08.Hahns_Bookings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/09.Total_Sum_of_Nights" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/10.Popular_Vacation_Destination" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/11.Bulgarias_Peaks_Higher_than_2835_Meters" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -441,7 +447,7 @@
       <workItem from="1698226460167" duration="605000" />
       <workItem from="1698487640411" duration="14959000" />
       <workItem from="1698580912562" duration="17700000" />
-      <workItem from="1698764031611" duration="2706000" />
+      <workItem from="1698764031611" duration="9413000" />
     </task>
     <servers />
   </component>
