@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/12.Count_Mountain_Ranges" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/13.Rivers_in_Africa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/14.Minimum_Average_Area_Across_Continents" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/15.Countries_Without_Any_Mountains" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/16.Monasteries_by_Country-HD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/17.Monasteries_by_Continents_and_Countries-HD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/18.Retrieving_Information_about_Indexes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/19.Continents_and_Currencies-HD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/07.Database_Programmability_and_Transactions/01.LAB/01.Count_Employees_by_Town" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/11.Bulgarias_Peaks_Higher_than_2835_Meters" beforeDir="false" afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/06.Subqueries_and_JOINs/02.EX/11.Bulgarias_Peaks_Higher_than_2835_Meters" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -447,7 +439,7 @@
       <workItem from="1698487640411" duration="14959000" />
       <workItem from="1698580912562" duration="17700000" />
       <workItem from="1698764031611" duration="10013000" />
-      <workItem from="1698844406137" duration="10274000" />
+      <workItem from="1698844406137" duration="12001000" />
     </task>
     <servers />
   </component>
