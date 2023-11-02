@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/07.Database_Programmability_and_Transactions/01.LAB/02.Employees_promotion" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/07.Database_Programmability_and_Transactions/01.LAB/03.Employees_Promotion_by_ID" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/07.Database_Programmability_and_Transactions/01.LAB/04.Triggered" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/07.Database_Programmability_and_Transactions/02.EX/01.User_defined_Function_Full_Name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/07.Database_Programmability_and_Transactions/02.EX/02.User_defined_Function_Future_Value" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/07.Database_Programmability_and_Transactions/02.EX/03.User_defined_Function_Is_Word_Comprised" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/07.Database_Programmability_and_Transactions/02.EX/04.Game_over" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/07.Database_Programmability_and_Transactions/02.EX/05.Difficulty_level" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/07.Database_Programmability_and_Transactions/02.EX/06.Cash_in_User_Games_Odd_Rows-HD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -443,7 +446,7 @@
       <workItem from="1698764031611" duration="10013000" />
       <workItem from="1698844406137" duration="12001000" />
       <workItem from="1698869718107" duration="14000" />
-      <workItem from="1698932156486" duration="3584000" />
+      <workItem from="1698932156486" duration="10837000" />
     </task>
     <servers />
   </component>
