@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eadf81dc-0116-449f-898f-ec9deb17d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/07.Database_Programmability_and_Transactions/01.LAB/01.Count_Employees_by_Town" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/07.Database_Programmability_and_Transactions/01.LAB/02.Employees_promotion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/07.Database_Programmability_and_Transactions/01.LAB/03.Employees_Promotion_by_ID" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.PythonDB_PostgreSQL/07.Database_Programmability_and_Transactions/01.LAB/04.Triggered" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -440,6 +442,8 @@
       <workItem from="1698580912562" duration="17700000" />
       <workItem from="1698764031611" duration="10013000" />
       <workItem from="1698844406137" duration="12001000" />
+      <workItem from="1698869718107" duration="14000" />
+      <workItem from="1698932156486" duration="3584000" />
     </task>
     <servers />
   </component>
